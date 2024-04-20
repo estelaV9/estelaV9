@@ -11,7 +11,21 @@
 - 🤝 ¡Abierto todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
 
 ## Proyectos *tops*
-[Shruk's Museum](https://github.com/estelaV9/sepuede_final) : Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Shruk's Museum</h3>
+      <div align="center">
+        <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
+          <img src="" width="400" alt="Shruk's Museum">
+        </a>
+        <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸</p>
+      </div>
+                                                                                      
+    </td>
+ </tr>                                                           
+</table>  
+<br>
 
 
 ## ⚙️ Estadísticas GitHub 
