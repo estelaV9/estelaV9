@@ -9,6 +9,7 @@
 - 🛠️ Proyectos actuales : Desarrollando una aplicación sobre cubos de Rubik.
 - 🚀 Lenguajes que me interesarían aprender : JavaScript, PHP, Python...
 - 🤝 ¡Abierto todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
+[MiGmail](https://img.shields.io/badge/Gmail-estela.devegagit%40gmail.com-%233f8b47)
 
 ## Proyectos *tops*
 <table>
@@ -24,7 +25,7 @@
     <td width="50%">
       <h3 align="center">CubeX</h3>
       <div align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/estelaV9/CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/CubeX.png" width="400" alt="CubeX">
         </a>
         <p>Desarrollando una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno</p>
