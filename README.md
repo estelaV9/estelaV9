@@ -9,10 +9,10 @@
 - 🛠️ Proyectos actuales : Desarrollando una aplicación sobre cubos de Rubik.
 - 🚀 Lenguajes que me interesarían aprender : JavaScript, PHP, Python...
 - 🤝 ¡Abierto todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
-<br>
-📧 <a href="mailto:estela.devegagit@gmail.com" target="_blank">
-         <img alt="gmail" src="https://img.shields.io/badge/Gmail-estela.devegagit%40gmail.com-%233f8b47">
-   </a>
+
+<a href="mailto:estela.devegagit@gmail.com" target="_blank">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-estela.devegagit%40gmail.com-%233f8b47">
+</a>
 
 ## Proyectos *tops*
 <table>
