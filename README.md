@@ -9,7 +9,7 @@
 - 🛠️ Proyectos actuales : Desarrollando una aplicación sobre cubos de Rubik.
 - 🚀 Lenguajes que me interesarían aprender : JavaScript, PHP, Python...
 - 🤝 ¡Abierto todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
-[MiGmail](https://img.shields.io/badge/Gmail-estela.devegagit%40gmail.com-%233f8b47)
+[Mi gmail](https://img.shields.io/badge/Gmail-estela.devegagit%40gmail.com-%233f8b47)]
 
 ## Proyectos *tops*
 <table>
@@ -18,7 +18,7 @@
       <h3 align="center">Shruk's Museum</h3>
       <div align="center">
         <a href="[https://github.com/estelaV9/sepuede_final](https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png)" target="_blank">
-          <img src="" width="400" alt="Shruk's Museum">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
         </a>
         <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸</p>
       </div>
