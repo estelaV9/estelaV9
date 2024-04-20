@@ -32,7 +32,7 @@
           <img src="https://github.com/estelaV9/estelaV9/blob/main/CubeX.png" width="400" alt="CubeX">
         </a>
         <p>Desarrollando una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
-        Con su [base de datos](https://github.com/estelaV9/CubexDatabase)</p>
+        Con su <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a></p>
       </div>           
  </tr>                                                           
 </table>  
