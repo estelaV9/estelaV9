@@ -16,13 +16,19 @@
     <td width="50%">
       <h3 align="center">Shruk's Museum</h3>
       <div align="center">
-        <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
+        <a href="[https://github.com/estelaV9/sepuede_final](https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png)" target="_blank">
           <img src="" width="400" alt="Shruk's Museum">
         </a>
         <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸</p>
       </div>
-                                                                                      
-    </td>
+    <td width="50%">
+      <h3 align="center">CubeX</h3>
+      <div align="center">
+        <a href="" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/CubeX.png" width="400" alt="CubeX">
+        </a>
+        <p>Desarrollando una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno</p>
+      </div>           
  </tr>                                                           
 </table>  
 <br>
