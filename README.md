@@ -4,7 +4,7 @@
 
 ## Sobre mi
 - 💻 Estudiante de Desarrollo Aplicaciones Multiplataforma.
-- 🔎 Explorando el mundo de Github.
+- 🔎 Explorando el mundo de Git.
 - 📚 Actualmente, estudiando Java y SQL.
 - 🛠️ Proyectos actuales : Desarrollando una aplicación sobre cubos de Rubik.
 - 🚀 Lenguajes que me interesarían aprender : JavaScript, PHP, Python...
@@ -31,8 +31,8 @@
         <a href="https://github.com/estelaV9/CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/CubeX.png" width="400" alt="CubeX">
         </a>
-        <p>Desarrollando una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
-        Con su <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a></p>
+        <p>Acabada una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
+        Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a> <br>Nota final: 9.5</p>
       </div>           
  </tr>                                                           
 </table>  
