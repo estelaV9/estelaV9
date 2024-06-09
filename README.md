@@ -21,7 +21,7 @@
         <a href="[https://github.com/estelaV9/sepuede_final](https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png)" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
         </a>
-        <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸</p>
+        <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸<br>Nota de programación : 7.80 <br> Nota entornos : 10. <br> Nota final: 8.45</p>
       </div>
     <td width="50%">
       <h3 align="center">CubeX</h3>
