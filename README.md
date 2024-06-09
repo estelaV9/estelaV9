@@ -4,10 +4,8 @@
 
 ## Sobre mi
 - 💻 Estudiante de Desarrollo Aplicaciones Multiplataforma.
-- 🔎 Explorando el mundo de Git.
-- 📚 Actualmente, estudiando Java y SQL.
-- 🛠️ Proyectos actuales : Desarrollando una aplicación sobre cubos de Rubik.
-- 🚀 Lenguajes que me interesarían aprender : JavaScript, PHP, Python...
+- <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" height="30px">   <img src="https://www.oracle.com/asset/web/favicons/favicon-32.png" height="25px">&nbsp;&nbsp;<img src="https://cdn-icons-png.flaticon.com/512/4248/4248340.png" height="25px">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" height="25px">  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" height="25px"> 
+- 📚 Lenguajes actuales : <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" height="25px"> 
 - 🤝 ¡Abierta a todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
 
 <a href="mailto:estela.devegagit@gmail.com" target="_blank">
