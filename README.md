@@ -7,8 +7,8 @@
 - 📚 Lenguajes actuales : <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="JavaScript" width="20" height="20"/><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="20" height="20"/>
 - 🤝 ¡Abierta a todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
 
-<a href="mailto:estela.devegagit@gmail.com" target="_blank">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-estela.devegagit%40gmail.com-%233f8b47">
+<a href="mailto:esteladevega.dev@gmail.com" target="_blank">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-esteladevega.dev%40gmail.com-%233f8b47">
 </a>
 
 ## Lenguajes y herramientas
