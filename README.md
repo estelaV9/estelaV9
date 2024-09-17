@@ -1,11 +1,11 @@
 <div align="center">
-  <h1 align="center">Hola, soy Estela 👋</h1>
+  <h1 align="center">Hola, soy Estela! 👋</h1>
 </div>
 
 ## Sobre mí
 - 💻 Estudiante de Desarrollo Aplicaciones Multiplataforma.
-- 📚 Lenguajes actuales : <img src="https://cdn-icons-png.flaticon.com/512/1199/1199124.png" alt="JavaScript" width="20" height="20"/><img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" alt="Python" width="20" height="20"/>
 - 🤝 ¡Abierta a todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
+- 👩‍💻 &lt;coding in&gt; progress.
 
 <a href="mailto:esteladevega.dev@gmail.com" target="_blank">
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-esteladevega.dev%40gmail.com-%233f8b47">
@@ -22,7 +22,23 @@
     <img src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" alt="SqlDeveloper" width="40" height="40"/>
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="MySQL Workbench" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=256&id=F7REdHlg6KJX&format=png" alt="IntelliJ" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" width="30" height="35"/>
 </p>
+
+## Proyectos *actuales*
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">BankPal Application</h3>
+      <div align="center">
+        <a href="[https://github.com/estelaV9/PracticaRespaso_PMDM](https://github.com/estelaV9/estelaV9/blob/main/bankPal.png)" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/bankPal.png" width="400" alt="BankPal Application">
+        </a>
+        <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes.</p>
+      </div>         
+ </tr>                                                           
+</table>  
+&nbsp;
 
 ## Proyectos *tops*
 <table>
