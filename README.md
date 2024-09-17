@@ -31,7 +31,7 @@
     <td width="50%">
       <h3 align="center">BankPal Application</h3>
       <div align="center">
-        <a href="[https://github.com/estelaV9/PracticaRespaso_PMDM](https://github.com/estelaV9/estelaV9/blob/main/bankPal.png)" target="_blank">
+        <a href="https://github.com/estelaV9/PracticaRespaso_PMDM" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/bankPal.png" width="400" alt="BankPal Application">
         </a>
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes.</p>
@@ -46,7 +46,7 @@
     <td width="50%">
       <h3 align="center">Shruk's Museum</h3>
       <div align="center">
-        <a href="[https://github.com/estelaV9/sepuede_final](https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png)" target="_blank">
+        <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
         </a>
         <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸<br>Nota de programación : 7.80 <br> Nota entornos : 10. <br> Nota final: 8.45</p>
