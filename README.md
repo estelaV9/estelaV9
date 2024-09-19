@@ -35,8 +35,34 @@
           <img src="https://github.com/estelaV9/estelaV9/blob/main/bankPal.png" width="400" alt="BankPal Application">
         </a>
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes.</p>
-      </div>         
+      </div> 
+    </td>
  </tr>                                                           
+</table>  
+&nbsp;
+
+## Módulos *cursando*
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Acceso a Datos</h3>
+      <div align="center">
+        <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/accesoDatos.png" width="500" alt="AccesoADatos">
+        </a>
+        <p>Ejercicios del módulo de Acceso a datos.</p>
+      </div> 
+    </td>
+    <td width="50%">
+      <h3 align="center">PDMD</h3>
+      <div align="center">
+        <a href="https://github.com/estelaV9/PMDM" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/pdmd.png" width="500" alt="PDMD">
+        </a>
+        <p>Ejercicios del módulo de PDMD.</p>
+      </div> 
+    </td>
+  </tr>                                                           
 </table>  
 &nbsp;
 
@@ -51,6 +77,7 @@
         </a>
         <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸<br>Nota de programación : 7.80 <br> Nota entornos : 10. <br> Nota final: 8.45</p>
       </div>
+    </td>
     <td width="50%">
       <h3 align="center">CubeX</h3>
       <div align="center">
@@ -59,8 +86,9 @@
         </a>
         <p>Acabada una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
         Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a> <br>Nota final: 9.5</p>
-      </div>           
- </tr>                                                           
+      </div> 
+    </td>
+  </tr>                                                           
 </table>  
 &nbsp;
 
