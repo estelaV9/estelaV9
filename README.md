@@ -66,12 +66,23 @@
       <h3 align="center">Sistema de Gestión Empresarial</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/pdmd.png" width="300" alt="SGE">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/sge.png" width="300" alt="SGE">
         </a> <br>
         <p>Ejercicios del módulo de SGE</p>
       </div> 
     </td>
-  </tr>                                                           
+  </tr>
+  <tr>
+    <td width="33%">
+      <h3 align="center">Desarrollo de Interfaces</h3>
+      <div align="center">
+        <a href="https://github.com/estelaV9/DesarrolloInterfaces" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
+        </a> <br>
+        <p>Ejercicios del módulo de Desarrollo de Interfaces.</p>
+      </div> 
+    </td>
+  </tr>
 </table>  
 &nbsp;
 
