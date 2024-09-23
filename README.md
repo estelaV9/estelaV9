@@ -32,7 +32,7 @@
       <h3 align="center">$BankPal Application</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/bankPal.png" width="400" alt="BankPal Application">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/bankPal.png" width="400" alt="$BankPalApplication">
         </a>
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes.</p>
       </div> 
@@ -44,22 +44,31 @@
 ## Módulos *cursando*
 <table>
   <tr>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">Acceso a Datos</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/accesoDatos.png" width="500" alt="AccesoADatos">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/accesoDatos.png" height="158" width="300"  alt="AccesoADatos">
         </a>
         <p>Ejercicios del módulo de Acceso a datos.</p>
       </div> 
     </td>
-    <td width="50%">
+    <td width="33%">
       <h3 align="center">PDMD</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/PMDM" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/pdmd.png" width="500" alt="PDMD">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/pdmd.png" width="300" alt="PDMD">
         </a>
         <p>Ejercicios del módulo de PDMD.</p>
+      </div> 
+    </td>
+    <td width="33%">
+      <h3 align="center">Sistema de Gestión Empresarial</h3>
+      <div align="center">
+        <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/pdmd.png" width="300" alt="SGE">
+        </a> <br>
+        <p>Ejercicios del módulo de SGE</p>
       </div> 
     </td>
   </tr>                                                           
