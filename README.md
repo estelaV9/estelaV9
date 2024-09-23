@@ -29,9 +29,9 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">BankPal Application</h3>
+      <h3 align="center">$BankPal Application</h3>
       <div align="center">
-        <a href="https://github.com/estelaV9/PracticaRespaso_PMDM" target="_blank">
+        <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/bankPal.png" width="400" alt="BankPal Application">
         </a>
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes.</p>
