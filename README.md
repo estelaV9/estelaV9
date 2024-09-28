@@ -54,12 +54,12 @@
       </div> 
     </td>
     <td width="33%">
-      <h3 align="center">PDMD</h3>
+      <h3 align="center">PMDM</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/PMDM" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/pdmd.png" width="300" alt="PDMD">
         </a>
-        <p>Ejercicios del módulo de PDMD.</p>
+        <p>Ejercicios del módulo de PMDM.</p>
       </div> 
     </td>
     <td width="33%">
