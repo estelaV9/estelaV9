@@ -30,6 +30,13 @@
   <tr>
     <td width="50%">
       <h3 align="center">$BankPal Application</h3>
+    </td>
+    <td width="50%">
+      <h3 align="center">CubeX Galaxy Shopping App</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
       <div align="center">
         <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPalApplication">
@@ -38,7 +45,6 @@
       </div> 
     </td>
     <td width="50%">
-      <h3 align="center">CubeX Galaxy Shopping App</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
@@ -55,6 +61,16 @@
   <tr>
     <td width="33%">
       <h3 align="center">Acceso a Datos</h3>
+    </td>
+    <td width="33%">
+      <h3 align="center">PMDM</h3>
+    </td>
+    <td width="33%">
+      <h3 align="center">Sistema de Gestión Empresarial</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
       <div align="center">
         <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/accesoDatos.png" height="158" width="300"  alt="AccesoADatos">
@@ -65,7 +81,6 @@
       </div> 
     </td>
     <td width="33%">
-      <h3 align="center">PMDM</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/PMDM" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/pdmd.png" width="300" alt="PDMD">
@@ -76,7 +91,6 @@
       </div> 
     </td>
     <td width="33%">
-      <h3 align="center">Sistema de Gestión Empresarial</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/sge.png" width="300" alt="SGE">
@@ -88,6 +102,13 @@
   <tr>
     <td width="33%">
       <h3 align="center">Desarrollo de Interfaces</h3>
+    </td>
+    <td width="33%">
+      <h3 align="center">Programación de Servicios y Procesos</h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%">
       <div align="center">
         <a href="https://github.com/estelaV9/DesarrolloInterfaces" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
@@ -96,7 +117,6 @@
       </div> 
     </td>
     <td width="33%">
-      <h3 align="center">Programación de Servicios y Procesos</h3>
       <div align="center">
         <a href="https://github.com/estelaV9/PSP" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
