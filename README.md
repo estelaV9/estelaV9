@@ -59,7 +59,9 @@
         <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/accesoDatos.png" height="158" width="300"  alt="AccesoADatos">
         </a>
-        <p>Ejercicios del módulo de Acceso a datos.</p>
+        <p>Ejercicios del módulo de Acceso a datos. <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/AccesoADatos?style=social">        
+        </p>
       </div> 
     </td>
     <td width="33%">
@@ -68,7 +70,9 @@
         <a href="https://github.com/estelaV9/PMDM" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/pdmd.png" width="300" alt="PDMD">
         </a>
-        <p>Ejercicios del módulo de PMDM.</p>
+        <p>Ejercicios del módulo de PMDM. <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/PMDM?style=social">
+        </p>
       </div> 
     </td>
     <td width="33%">
@@ -123,7 +127,9 @@
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
         </a>
         <p>Acabada una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
-        Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a>. <br>Nota final: 9.5</p>
+        Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a>. <br>Nota final: 9.5 <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/CubeX?style=social">        
+        </p>
       </div> 
     </td>
   </tr>                                                           
