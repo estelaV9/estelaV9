@@ -40,7 +40,7 @@
     <td width="50%">
       <h3 align="center">CubeX Galaxy Shopping App</h3>
       <div align="center">
-        <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EstelaDeVega_EjercicioFormulario" target="_blank">
+        <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
         </a>
         <p>Ejercicio formulario AAD para la compra de cubos de Rubik.</p>
