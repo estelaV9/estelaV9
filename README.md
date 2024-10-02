@@ -91,6 +91,15 @@
         <p>Ejercicios del módulo de Desarrollo de Interfaces.</p>
       </div> 
     </td>
+    <td width="33%">
+      <h3 align="center">Programación de Servicios y Procesos</h3>
+      <div align="center">
+        <a href="https://github.com/estelaV9/PSP" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
+        </a> <br>
+        <p>Ejercicios del módulo de Programación de Servicios y Procesos.</p>
+      </div> 
+    </td>
   </tr>
 </table>  
 &nbsp;
@@ -114,7 +123,7 @@
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
         </a>
         <p>Acabada una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
-        Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a> <br>Nota final: 9.5</p>
+        Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a>. <br>Nota final: 9.5</p>
       </div> 
     </td>
   </tr>                                                           
