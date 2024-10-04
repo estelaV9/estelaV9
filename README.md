@@ -110,17 +110,14 @@
   <tr>
     <td width="33%">
       <div align="center">
-        <a href="https://github.com/estelaV9/DesarrolloInterfaces" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
-        </a> <br>
+        <br>
         <p>Ejercicios del módulo de Desarrollo de Interfaces.</p>
       </div> 
     </td>
     <td width="33%">
       <div align="center">
-        <a href="https://github.com/estelaV9/PSP" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
-        </a> <br>
         <p>Ejercicios del módulo de Programación de Servicios y Procesos.</p>
       </div> 
     </td>
