@@ -117,7 +117,9 @@
     </td>
     <td width="33%">
       <div align="center">
+        <a href="https://github.com/estelaV9/PSP" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
+        </a>
         <p>Ejercicios del módulo de Programación de Servicios y Procesos.</p>
       </div> 
     </td>
