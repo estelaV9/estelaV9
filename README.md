@@ -41,7 +41,7 @@
         <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPalApplication">
         </a>
-        <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes. 
+        <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes. <br>
             ESTADO: TERMINADO <br><br>
             Se está ampliando la idea de proyecto en el módulo de <b>Desarrollo de Interfaces</b> en Figma,
             desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=53-600&t=OIswrGBvaBMEDShw-1">aplicación</a> de banco más completa y con más funcionalidades.</p>
@@ -52,7 +52,7 @@
         <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
         </a>
-        <p>Ejercicio formulario AAD para la compra de cubos de Rubik.</p>
+        <p>Ejercicio formulario AAD para la compra de cubos de Rubik. <br> ESTADO: EN PROCESO</p>
       </div> 
     </td>
  </tr>                                                           
@@ -113,7 +113,9 @@
   <tr>
     <td width="33%">
       <div align="center">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
+          <a href="https://github.com/estelaV9/DesarrolloInterfaces">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
+          </a>
         <br>
         <p>Ejercicios del módulo de Desarrollo de Interfaces.</p>
       </div> 
