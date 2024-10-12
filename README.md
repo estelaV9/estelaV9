@@ -23,6 +23,7 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="MySQL Workbench" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=256&id=F7REdHlg6KJX&format=png" alt="IntelliJ" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" width="30" height="35"/>
+    <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="35" height="35"/>
 </p>
 
 ## Proyectos *actuales*
