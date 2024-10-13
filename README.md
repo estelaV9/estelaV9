@@ -53,7 +53,7 @@
         <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
         </a>
-        <p>Ejercicio formulario AAD para la compra de cubos de Rubik. <br> ESTADO: EN PROCESO</p>
+        <p>Ejercicio formulario AAD para la compra de cubos de Rubik con su <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">manual de usuario</a> de la práctica. <br> ESTADO: TERMINADO <br></p>
       </div> 
     </td>
  </tr>                                                           
