@@ -53,7 +53,9 @@
         <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
         </a>
-        <p>Ejercicio formulario AAD para la compra de cubos de Rubik con su <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">manual de usuario</a> de la práctica. <br> ESTADO: TERMINADO <br></p>
+        <p>Ejercicio formulario AAD para la compra de cubos de Rubik con su <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">manual de usuario</a> de la práctica. <br> 
+          ESTADO: TERMINADO <br><br>
+          Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a></p>
       </div> 
     </td>
  </tr>                                                           
