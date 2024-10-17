@@ -23,7 +23,12 @@
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="MySQL Workbench" width="40" height="40"/>
     <img src="https://img.icons8.com/?size=256&id=F7REdHlg6KJX&format=png" alt="IntelliJ" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" width="30" height="35"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="AndroidStudios" width="35" height="35"/>
     <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyChrarm" width="35" height="35"/>
+    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="30" height="35"/>
 </p>
 
 ## Proyectos *actuales*
