@@ -29,12 +29,12 @@
 ## Proyectos *actuales*
 <table>
   <tr>
-    <td width="50%">
+    <th width="50%">
       <h3 align="center">$BankPal Application</h3>
-    </td>
-    <td width="50%">
+    </th>
+    <th width="50%">
       <h3 align="center">CubeX Galaxy Shopping App</h3>
-    </td>
+    </th>
   </tr>
   <tr>
     <td width="50%">
@@ -44,8 +44,9 @@
         </a>
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes. <br>
             ESTADO: TERMINADO <br><br>
-            Se está ampliando la idea de proyecto en el módulo de <b>Desarrollo de Interfaces</b> en Figma,
-            desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=53-600&t=OIswrGBvaBMEDShw-1">aplicación</a> de banco más completa y con más funcionalidades.</p>
+            Se ha ampliando la idea de proyecto en el módulo de <b>Desarrollo de Interfaces</b> en Figma,
+            desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=53-600&t=OIswrGBvaBMEDShw-1">aplicación</a> de banco más completa y con más funcionalidades <br>
+            ESTADO TERMINADO.</p>
       </div> 
     </td>
     <td width="50%">
@@ -55,7 +56,7 @@
         </a>
         <p>Ejercicio formulario AAD para la compra de cubos de Rubik con su <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">manual de usuario</a> de la práctica. <br> 
           ESTADO: TERMINADO <br><br>
-          Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a></p>
+          Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a>.</p>
       </div> 
     </td>
  </tr>                                                           
@@ -65,15 +66,15 @@
 ## Módulos *cursando*
 <table>
   <tr>
-    <td width="33%">
+    <th width="33%">
       <h3 align="center">Acceso a Datos</h3>
-    </td>
-    <td width="33%">
+    </th>
+    <th width="33%">
       <h3 align="center">PMDM</h3>
-    </td>
-    <td width="33%">
+    </th>
+    <th width="33%">
       <h3 align="center">Sistema de Gestión Empresarial</h3>
-    </td>
+    </th>
   </tr>
   <tr>
     <td width="33%">
@@ -106,12 +107,12 @@
     </td>
   </tr>
   <tr>
-    <td width="33%">
+    <th width="33%">
       <h3 align="center">Desarrollo de Interfaces</h3>
-    </td>
-    <td width="33%">
+    </th>
+    <th width="33%">
       <h3 align="center">Programación de Servicios y Procesos</h3>
-    </td>
+    </th>
   </tr>
   <tr>
     <td width="33%">
@@ -138,8 +139,15 @@
 ## Proyectos *tops*
 <table>
   <tr>
-    <td width="50%">
+    <th width="50%">
       <h3 align="center">Shruk's Museum</h3>
+    </th>
+    <th width="50%">
+      <h3 align="center">CubeX</h3>
+    </th>
+  </tr>
+  <tr>
+    <td>
       <div align="center">
         <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
@@ -147,8 +155,7 @@
         <p>Museo peculiar sobre Shruk, un alter ego oscuro de Shrek. Explora una colección única de imágenes relacionadas con este personaje peculiar. 🐸<br>Nota de programación : 7.80 <br> Nota entornos : 10. <br> Nota final: 8.45</p>
       </div>
     </td>
-    <td width="50%">
-      <h3 align="center">CubeX</h3>
+    <td 
       <div align="center">
         <a href="https://github.com/estelaV9/CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
