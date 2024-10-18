@@ -26,9 +26,11 @@
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="AndroidStudios" width="35" height="35"/>
     <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="35" height="35"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyChrarm" width="35" height="35"/>
-    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="35" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="35" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="30" height="35"/>
+    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="30" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="30" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="25" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" alt="Odoo" width="60" height="25"/>
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="Docker" width="40" height="35"/>
 </p>
 
 ## Proyectos *actuales*
@@ -61,7 +63,9 @@
         </a>
         <p>Ejercicio formulario AAD para la compra de cubos de Rubik con su <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">manual de usuario</a> de la práctica. <br> 
           ESTADO: TERMINADO <br><br>
-          Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a>.</p>
+          Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. 
+          Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a>. <br>
+          ESTADO: TERMINADO</p>
       </div> 
     </td>
  </tr>                                                           
