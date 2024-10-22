@@ -122,6 +122,9 @@
     <th width="33%">
       <h3 align="center">Programación de Servicios y Procesos</h3>
     </th>
+    <th width="33%">
+      <h3 align="center">Empresa e Iniciativa Emprendedora</h3>
+    </th>
   </tr>
   <tr>
     <td width="33%">
@@ -139,6 +142,14 @@
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
         </a>
         <p>Ejercicios del módulo de Programación de Servicios y Procesos.</p>
+      </div> 
+    </td>
+    <td width="33%">
+      <div align="center">
+        <a href="https://github.com/estelaV9/EIE" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/EIE.png" width="300" alt="EIE">
+        </a>
+        <p>Ejercicios del módulo de Empresa e Iniciativa Emprendedora.</p>
       </div> 
     </td>
   </tr>
