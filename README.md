@@ -52,8 +52,8 @@
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes. <br>
             ESTADO: TERMINADO <br><br>
             Se ha ampliando la idea de proyecto en el módulo de <b>Desarrollo de Interfaces</b> en Figma,
-            desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=53-600&t=OIswrGBvaBMEDShw-1">aplicación</a> de banco más completa y con más funcionalidades <br>
-            ESTADO TERMINADO.</p>
+            desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=0-1&t=88QiglBwpE1F3hZd-1">aplicación</a> de banco más completa y con más funcionalidades <br>
+            Nota: 10.</p>
       </div> 
     </td>
     <td width="50%">
@@ -65,7 +65,7 @@
           ESTADO: TERMINADO <br><br>
           Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. 
           Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a>. <br>
-          ESTADO: TERMINADO</p>
+          Nota: 9.20.</p>
       </div> 
     </td>
  </tr>                                                           
