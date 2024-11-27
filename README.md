@@ -50,7 +50,7 @@
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPalApplication">
         </a>
         <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes. <br>
-            ESTADO: TERMINADO <br><br>
+            Nota: La tarea esta perfecta <br><br>
             Se ha ampliando la idea de proyecto en el módulo de <b>Desarrollo de Interfaces</b> en Figma,
             desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=0-1&t=88QiglBwpE1F3hZd-1">aplicación</a> de banco más completa y con más funcionalidades <br>
             Nota: 10.</p>
