@@ -11,6 +11,8 @@
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-esteladevega.dev%40gmail.com-%233f8b47">
 </a>
 
+<img alt="wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/blue9/interval:coding_activity&label=Coding%20activity&color=8A2BE2"/>
+
 ## Lenguajes y herramientas
 <p align="center">
     <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
