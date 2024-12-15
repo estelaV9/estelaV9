@@ -39,6 +39,72 @@
 ## Proyectos *actuales*
 <table>
   <tr>
+    <th width="25%">
+      <h3 align="center">CubeX TFG</h3>
+    </th>
+    <th width="25%">
+      <h3 align="center">Módulo Manageestela de Odoo</h3>
+    </th>
+    <th width="25%">
+      <h3 align="center">Gestión de Partes</h3>
+    </th>
+    <th width="25%">
+      <h3 align="center">Casa de los Fantasmas</h3>
+    </th>
+  </tr>
+  <tr>
+    <td width="25%">
+      <div align="center">
+        <a href="" target="_blank">
+          <img src="Image/bannerCubeX.png" width="400" alt="CubeX_TFG">
+        </a>
+        <p>Empezando una parte del TFG en el módulo de Desarrollo de Interfaces de <b>CubeX</b>. <br><br>
+          Una aplicación que, por ahora, será un timer para las resoluciones de los diferentes cubos de Rubik y dispondrá de un historial y estadísticas.</p>
+      </div> 
+    </td>
+    <td width="25%">
+      <div align="center">
+        <a href="" target="_blank">
+          <img src="Image/moduloManageestela.png" width="400" alt="ModuloManageestela">
+        </a>
+        <p>Realizando una memoria del desarrollo del módulo Manageestela para Odoo, detallando:
+          <ul>
+            <li>Los fundamentos de ERP y SCRUM.</li>
+            <li>La arquitectura y diseño del módulo.</li>
+            <li>Su ampliación.</li>
+            <li>Las herramientas utilizadas.</li>
+            <li>Las pruebas realizadas.</li>
+          </ul></p>
+      </div>
+    </td>
+    <td width="25%">
+      <div align="center">
+        <a href="" target="_blank">
+          <img src="Image/gestionPartes.png" width="400" alt="GestionPartes">
+        </a>
+        <p>Realizando un <a href="https://github.com/HugoReyHol/gestion-faltas">proyecto</a> final en Hibernate en grupo implementando un sistema con dos tipos de 
+          <ul>
+            <li>Usuaurios.</li>
+            <li>Profesores.</li>
+            <li>Jefes de Estudios.</li>
+          </ul>
+          Cada uno con menús específicos para gestionar partes, alumnos y profesores.</p>
+      </div> 
+    </td>
+    <td width="25%">
+      <div align="center">
+        <a href="https://github.com/estelaV9/ProyectoCasaFantasmas" target="_blank">
+          <img src="Image/casaFantasmas.png" width="150" alt="CasaFantasmas">
+        </a>
+        <p>Desarrollando una <a href="https://github.com/estelaV9/ProyectoCasaFantasmas">aplicación</a> de <b>"La Casa de los Fantasmas"</b>, donde se tendrá que navegar por la mansión resolviendo enigmas en cada habitación para moverte hasta alcanzar la habitación final con los dulces.</p>
+      </div>
+    </td>
+ </tr>  
+</table>  
+
+## Proyectos actuales *anteriores*
+<table>
+  <tr>
     <th width="50%">
       <h3 align="center">$BankPal Application</h3>
     </th>
