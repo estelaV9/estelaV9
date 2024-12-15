@@ -20,9 +20,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3" width="40" height="40"/>  
     <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" alt="MySQL" width="60" height="40"/>
     <img src="https://www.oracle.com/asset/web/favicons/favicon-32.png" alt="Oracle" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/15713/15713436.png" alt="VisualStudioCode" width="40" height="40"/>
     <img src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" alt="SqlDeveloper" width="40" height="40"/>
     <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="MySQL Workbench" width="40" height="40"/>
+    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"          />
     <img src="https://img.icons8.com/?size=256&id=F7REdHlg6KJX&format=png" alt="IntelliJ" width="40" height="40"/>
     <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" width="30" height="35"/>
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="AndroidStudios" width="35" height="35"/>
@@ -33,6 +33,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="25" height="35"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" alt="Odoo" width="60" height="25"/>
     <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="Docker" width="40" height="35"/>
+    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite" width="35" height="35"/>
 </p>
 
 ## Proyectos *actuales*
