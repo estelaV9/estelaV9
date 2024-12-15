@@ -55,11 +55,21 @@
   <tr>
     <td width="25%">
       <div align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/estelaV9/DesarrolloInterfaces/tree/master/ProyectoFlutter_ParteTFG" target="_blank">
           <img src="Image/bannerCubeX.png" width="400" alt="CubeX_TFG">
         </a>
-        <p>Empezando una parte del TFG en el módulo de Desarrollo de Interfaces de <b>CubeX</b>. <br><br>
-          Una aplicación que, por ahora, será un timer para las resoluciones de los diferentes cubos de Rubik y dispondrá de un historial y estadísticas.</p>
+        <p>Empezando una parte del <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> en el módulo de Desarrollo de Interfaces de <b>CubeX</b>. <br><br>
+          Una aplicación que, por ahora, será un timer para las resoluciones de los diferentes cubos de Rubik y dispondrá de un historial y estadísticas.
+            <ul>
+                <li>
+                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Enunciado</a> del proyecto.
+                </li>
+                <li>
+                    <p>
+                        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Esquema</a> (mockup o wireframe) de cómo estará diseñada la aplicación y una descripción de ella.
+                    </p>
+                </li>
+            </ul>
       </div> 
     </td>
     <td width="25%">
