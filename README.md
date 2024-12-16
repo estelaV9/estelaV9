@@ -92,13 +92,14 @@
         <a href="" target="_blank">
           <img src="Image/gestionPartes.png" width="400" alt="GestionPartes">
         </a>
-        <p>Realizando un <a href="https://github.com/HugoReyHol/gestion-faltas">proyecto</a> final en Hibernate en grupo implementando un sistema con dos tipos de 
+        <p>Realizando un <a href="https://github.com/HugoReyHol/gestion-faltas">proyecto</a> final en Hibernate en grupo implementando un sistema con dos tipos de usuarios
           <ul>
-            <li>Usuaurios.</li>
             <li>Profesores.</li>
             <li>Jefes de Estudios.</li>
           </ul>
-          Cada uno con menús específicos para gestionar partes, alumnos y profesores.</p>
+          Cada uno con menús específicos para gestionar partes, alumnos y profesores. <br>
+          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/ProyectoFinalHibernate/Enunciado_ProyectoFinalHibernate.pdf">Enunciado</a> de la práctica.    
+      </p>
       </div> 
     </td>
     <td width="25%">
