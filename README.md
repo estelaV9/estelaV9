@@ -2,6 +2,8 @@
   <h1 align="center">Hola, soy Estela! 👋</h1>
 </div>
 
+[![Translate to English](https://img.shields.io/badge/🌐_Translate_to-English-ADD8E6?style=for-the-badge&logoColor=FFB6C1)](https://github.com/estelaV9/estelaV9/blob/main/README-en.md)
+
 ## Sobre mí
 - 💻 Estudiante de Desarrollo Aplicaciones Multiplataforma.
 - 🤝 ¡Abierta a todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
