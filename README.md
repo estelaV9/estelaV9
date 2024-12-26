@@ -74,10 +74,10 @@
     </td>
     <td width="25%">
       <div align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage" target="_blank">
           <img src="Image/moduloManageestela.png" width="400" alt="ModuloManageestela">
         </a>
-        <p>Realizando una memoria del desarrollo del módulo Manageestela para Odoo, detallando:
+        <p>Realizando una <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/blob/master/Proyecto_ModuloManage/deVega_Martin_Estela_proyectomanage.pdf">memoria</a> del desarrollo del módulo <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage/manageestela">Manageestela</a> para Odoo, detallando:
           <ul>
             <li>Los fundamentos de ERP y SCRUM.</li>
             <li>La arquitectura y diseño del módulo.</li>
@@ -89,7 +89,7 @@
     </td>
     <td width="25%">
       <div align="center">
-        <a href="" target="_blank">
+        <a href="https://github.com/estelaV9/AccesoADatos/tree/master/ProyectoFinalHibernate" target="_blank">
           <img src="Image/gestionPartes.png" width="400" alt="GestionPartes">
         </a>
         <p>Realizando un <a href="https://github.com/HugoReyHol/gestion-faltas">proyecto</a> final en Hibernate en grupo implementando un sistema con dos tipos de usuarios
