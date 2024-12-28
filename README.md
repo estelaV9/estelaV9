@@ -74,6 +74,7 @@
                 Incluye los casos de uso, los diagramas de componentes de las pantallas, el UML y la <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">base de datos</a>
               </li>
             </ul>
+        <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social"> 
       </div> 
     </td>
     <td width="25%">
