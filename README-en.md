@@ -9,8 +9,8 @@
 - 🤝 Open to all kinds of advice! Always grateful for the help of the GitHub community.
 - 👩‍💻 &lt;coding in&gt; progress.
 
-<a href="mailto:esteladevega.dev@gmail.com" target="_blank">
-  <img alt="gmail" src="https://img.shields.io/badge/Gmail-esteladevega.dev%40gmail.com-%233f8b47">
+<a href="mailto:esteladevega.dev9@gmail.com" target="_blank">
+  <img alt="gmail" src="https://img.shields.io/badge/Gmail-esteladevega.dev9%40gmail.com-%233f8b47">
 </a>
 
 <img alt="wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/blue9/interval:coding_activity&label=Coding%20activity&color=8A2BE2"/>
