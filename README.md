@@ -196,7 +196,9 @@
         <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/sge.png" width="300" alt="SGE">
         </a> <br>
-        <p>Ejercicios del módulo de SGE</p>
+        <p>Ejercicios del módulo de SGE. <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/SistemasGestionEmpresarial?style=social"> 
+        </p>
       </div> 
     </td>
   </tr>
@@ -218,7 +220,9 @@
             <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
           </a>
         <br>
-        <p>Ejercicios del módulo de Desarrollo de Interfaces.</p>
+        <p>Ejercicios del módulo de Desarrollo de Interfaces. <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/DesarrolloInterfaces?style=social"> 
+        </p>
       </div> 
     </td>
     <td width="33%">
@@ -226,7 +230,9 @@
         <a href="https://github.com/estelaV9/PSP" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
         </a>
-        <p>Ejercicios del módulo de Programación de Servicios y Procesos.</p>
+        <p>Ejercicios del módulo de Programación de Servicios y Procesos. <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/PSP?style=social"> 
+        </p>
       </div> 
     </td>
     <td width="33%">
