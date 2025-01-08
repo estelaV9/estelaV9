@@ -38,6 +38,23 @@
     <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite" width="35" height="35"/>
 </p>
 
+## Licenses and certifications
+<table>
+  <tr>
+    <th align="center">Introduction to Spring Data JPA</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="250" alt="OpenWeBinarsCourse"/>
+      <p>
+        Completed a course on <br>
+        <b>Introduction to Spring Data JPA</b><br>
+        in OpenWeBinars. <br>
+        <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Certificado</a> del curso</p>
+    </td>
+  </tr>
+</table>
+
 ## *Current* projects
 <table>
   <tr>
