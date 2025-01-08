@@ -106,7 +106,9 @@
             <li>Your extension.</li>
             <li>The tools used.</li>
             <li>The tests performed.</li>
-          </ul></p>
+          </ul>
+        First part note: Qualified. 
+      </p>
       </div>
     </td>
     <td width="25%">
@@ -267,23 +269,44 @@
 ## Project *tops*
 <table>
   <tr>
-    <th width="50%">
-      <h3 align="center">Shruk's Museum</h3>
+    <th width="33%">
+      <h3 align="center">TFG CubeX</h3>
     </th>
-    <th width="50%">
+    <th width="33%">
       <h3 align="center">CubeX</h3>
     </th>
+    <th width="33%">
+      <h3 align="center">Shruk's Museum</h3>
+    </th>
+    
   </tr>
   <tr>
-    <td>
+    <td> 
       <div align="center">
-        <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
+        <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
         </a>
-        <p>A peculiar museum about Shruk, a dark alter ego of Shrek. Explore a unique collection of images related to this quirky character. 🐸<br>Note of programming: 7.80 <br> Note development environments: 10. <br> Final note: 8.45</p>
-      </div>
+        <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> of <b>CubeX</b>. <br><br>
+          An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
+            <ul align="left">
+                <li>
+                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
+                </li>
+                <li>
+                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.                       
+                </li>
+              <li>
+                Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
+                Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.
+              </li>
+            </ul>
+          <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social">        
+        </p>
+      </div> 
     </td>
-    <td 
+    <td> 
       <div align="center">
         <a href="https://github.com/estelaV9/CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
@@ -293,6 +316,14 @@
           <img alt="starts" src="https://shields.io/github/stars/estelaV9/CubeX?style=social">        
         </p>
       </div> 
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
+        </a>
+        <p>A peculiar museum about Shruk, a dark alter ego of Shrek. Explore a unique collection of images related to this quirky character. 🐸<br>Note of programming: 7.80 <br> Note development environments: 10. <br> Final note: 8.45</p>
+      </div>
     </td>
   </tr>                                                           
 </table>  
