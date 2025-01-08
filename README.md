@@ -2,6 +2,8 @@
   <h1 align="center">Hola, soy Estela! 👋</h1>
 </div>
 
+![snake gif](https://github.com/estelaV9/estelaV9/blob/output/github-snake-dark.svg)
+
 [![Translate to English](https://img.shields.io/badge/🌐_Translate_to-English-ADD8E6?style=for-the-badge&logoColor=FFB6C1)](https://github.com/estelaV9/estelaV9/blob/main/README-en.md)
 
 ## Sobre mí
