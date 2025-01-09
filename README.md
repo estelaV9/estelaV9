@@ -137,45 +137,6 @@
  </tr>  
 </table>  
 
-## Proyectos actuales *anteriores*
-<table>
-  <tr>
-    <th width="50%">
-      <h3 align="center">$BankPal Application</h3>
-    </th>
-    <th width="50%">
-      <h3 align="center">CubeX Galaxy Shopping App</h3>
-    </th>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPalApplication">
-        </a>
-        <p>Práctica de repaso PMDM para gestionar cuentas bancarias de los clientes. <br>
-            Nota: La tarea esta perfecta <br><br>
-            Se ha ampliando la idea de proyecto en el módulo de <b>Desarrollo de Interfaces</b> en Figma,
-            desarrollando una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=0-1&t=88QiglBwpE1F3hZd-1">aplicación</a> de banco más completa y con más funcionalidades <br>
-            Nota: 10.</p>
-      </div> 
-    </td>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
-        </a>
-        <p>Ejercicio formulario AAD para la compra de cubos de Rubik con su <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">manual de usuario</a> de la práctica. <br> 
-          ESTADO: TERMINADO <br><br>
-          Se está realizando esta misma idea en el módulo de <b>Sistemas de Gestión Empresarial</b> pero en el Lenguaje de Programación <b>Python</b>. 
-          Puedes consultar el ejercicio en la <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Práctica 12</a>. <br>
-          Nota: 9.20.</p>
-      </div> 
-    </td>
- </tr>                                                           
-</table>  
-&nbsp;
-
 ## Módulos *cursando*
 <table>
   <tr>
