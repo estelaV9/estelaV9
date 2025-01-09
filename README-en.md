@@ -58,270 +58,280 @@
   </tr>
 </table>
 
-## *Current* projects
-<table>
-  <tr>
-    <th width="25%">
-      <h3 align="center">CubeX TFG</h3>
-    </th>
-    <th width="25%">
-      <h3 align="center">Odoo Manageestela Module</h3>
-    </th>
-    <th width="25%">
-      <h3 align="center">Reports Management</h3>
-    </th>
-    <th width="25%">
-      <h3 align="center">House of Ghosts</h3>
-    </th>
-  </tr>
-  <tr>
-    <td width="25%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/DesarrolloInterfaces/tree/master/ProyectoFlutter_ParteTFG" target="_blank">
-          <img src="Image/bannerCubeX.png" width="400" alt="CubeX_TFG">
-        </a>
-        <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> in the Interface Development module of <b>CubeX</b>. <br><br>
-          An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
-            <ul>
-                <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
-                </li>
-                <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.                       
-                </li>
-              <li>
-                Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
-                Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.
-              </li>
-            </ul>
-        <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social"> 
-      </div> 
-    </td>
-    <td width="25%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage" target="_blank">
-          <img src="Image/moduloManageestela.png" width="400" alt="ManageestelaModule">
-        </a>
-        <p>Working in a <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/blob/master/Proyecto_ModuloManage/deVega_Martin_Estela_proyectomanage.pdf">memory</a> module development <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage/manageestela">Manageestela</a> for Odoo, detailing:
-          <ul>
-            <li>The fundamentals of ERP and SCRUM.</li>
-            <li>The architecture and design of the module.</li>
-            <li>Your extension.</li>
-            <li>The tools used.</li>
-            <li>The tests performed.</li>
-          </ul>
-        First part note: Qualified. 
-      </p>
-      </div>
-    </td>
-    <td width="25%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/AccesoADatos/tree/master/ProyectoFinalHibernate" target="_blank">
-          <img src="Image/gestionPartes.png" width="400" alt="ReportManagement">
-        </a>
-        <p>Working in a final <a href="https://github.com/HugoReyHol/gestion-faltas">project</a> in Hibernate as a group implementing a system with two types of users
-          <ul>
-            <li>Teachers</li>
-            <li>Heads of Studies.</li>
-          </ul>
-          Each one with specific menus to manage reports, students and teachers. <br>
-          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/ProyectoFinalHibernate/Enunciado_ProyectoFinalHibernate.pdf">Objective</a> of the practice.    
-      </p>
-      </div> 
-    </td>
-    <td width="25%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/ProyectoCasaFantasmas" target="_blank">
-          <img src="Image/casaFantasmas.png" width="150" alt="GhostHouse">
-        </a>
-        <p>Developing a <a href="https://github.com/estelaV9/ProyectoCasaFantasmas">application</a> from <b>"The House of Ghosts"</b>, where you will have to navigate the mansion solving puzzles in each room to move until you reach the final room with the sweets.</p>
-      </div>
-    </td>
- </tr>  
-</table>  
 
-## Modules currently *studying*
-<table>
-  <tr>
-    <th width="33%">
-      <h3 align="center">Data Access</h3>
-    </th>
-    <th width="33%">
-      <h3 align="center">PMDM</h3>
-    </th>
-    <th width="33%">
-      <h3 align="center">Business Management Systems</h3>
-    </th>
-  </tr>
-  <tr>
-    <td width="33%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/accesoDatos.png" height="158" width="300"  alt="DataAccess">
-        </a>
-        <p>Exercises of the Data Access module. <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/AccesoADatos?style=social">        
-        </p>
-      </div> 
-    </td>
-    <td width="33%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/PMDM" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/pdmd.png" width="300" alt="PDMD">
-        </a>
-        <p>Exercises of the PMDM module. <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/PMDM?style=social">
-        </p>
-      </div> 
-    </td>
-    <td width="33%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/sge.png" width="300" alt="SGE">
-        </a> <br>
-        <p>Exercises of the SGE module. <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/SistemasGestionEmpresarial?style=social"> 
-        </p>
-      </div> 
-    </td>
-  </tr>
-  <tr>
-    <th width="33%">
-      <h3 align="center">Interface Development</h3>
-    </th>
-    <th width="33%">
-      <h3 align="center">Programming of Services and Processes</h3>
-    </th>
-    <th width="33%">
-      <h3 align="center">Enterprise and Entrepreneurial Initiative</h3>
-    </th>
-  </tr>
-  <tr>
-    <td width="33%">
-      <div align="center">
-          <a href="https://github.com/estelaV9/DesarrolloInterfaces">
-            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="InterfaceDevelopment">
+<details open> 
+  <summary><h2>📘 Current projects</h2></summary>
+  <table>
+    <tr>
+      <th width="25%">
+        <h3 align="center">CubeX TFG</h3>
+      </th>
+      <th width="25%">
+        <h3 align="center">Odoo Manageestela Module</h3>
+      </th>
+      <th width="25%">
+        <h3 align="center">Reports Management</h3>
+      </th>
+      <th width="25%">
+        <h3 align="center">House of Ghosts</h3>
+      </th>
+    </tr>
+    <tr>
+      <td width="25%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/DesarrolloInterfaces/tree/master/ProyectoFlutter_ParteTFG" target="_blank">
+            <img src="Image/bannerCubeX.png" width="400" alt="CubeX_TFG">
           </a>
-        <br>
-        <p>Exercises of the Interface Development module. <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/DesarrolloInterfaces?style=social"> 
-        </p>
-      </div> 
-    </td>
-    <td width="33%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/PSP" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
-        </a>
-        <p>Exercises of the Programming of Services and Processes module. <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/PSP?style=social"> 
-        </p>
-      </div> 
-    </td>
-    <td width="33%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/EIE" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/EIE.png" width="300" alt="EIE">
-        </a>
-        <p>Exercises of Enterprise and Entrepreneurial Initiative module.</p>
-      </div> 
-    </td>
-  </tr>
-</table>  
-&nbsp;
-
-## Project *tops*
-<table>
-  <tr>
-    <th width="50%">
-      <h3 align="center">TFG CubeX</h3>
-    </th>
-    <th width="50%">
-      <h3 align="center">$BankPal Wireframe</h3>
-    </th>
-  </tr>
-  <tr>
-    <td> 
-      <div align="center">
-        <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
-        </a>
-        <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> of <b>CubeX</b>. <br><br>
-          An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
-            <ul align="left">
+          <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> in the Interface Development module of <b>CubeX</b>. <br><br>
+            An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
+              <ul>
+                  <li>
+                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
+                  </li>
+                  <li>
+                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.                       
+                  </li>
                 <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
+                  Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
+                  Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.
                 </li>
-                <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.  <br>Note: 10.                   
-                </li>
-              <li>
-                Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
-                Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.  <br>Note: 10. 
-              </li>
+              </ul>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social"> 
+        </div> 
+      </td>
+      <td width="25%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage" target="_blank">
+            <img src="Image/moduloManageestela.png" width="400" alt="ManageestelaModule">
+          </a>
+          <p>Working in a <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/blob/master/Proyecto_ModuloManage/deVega_Martin_Estela_proyectomanage.pdf">memory</a> module development <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage/manageestela">Manageestela</a> for Odoo, detailing:
+            <ul>
+              <li>The fundamentals of ERP and SCRUM.</li>
+              <li>The architecture and design of the module.</li>
+              <li>Your extension.</li>
+              <li>The tools used.</li>
+              <li>The tests performed.</li>
             </ul>
-          <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
+          First part note: Qualified. 
+        </p>
+        </div>
+      </td>
+      <td width="25%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/AccesoADatos/tree/master/ProyectoFinalHibernate" target="_blank">
+            <img src="Image/gestionPartes.png" width="400" alt="ReportManagement">
+          </a>
+          <p>Working in a final <a href="https://github.com/HugoReyHol/gestion-faltas">project</a> in Hibernate as a group implementing a system with two types of users
+            <ul>
+              <li>Teachers</li>
+              <li>Heads of Studies.</li>
+            </ul>
+            Each one with specific menus to manage reports, students and teachers. <br>
+            <a href="https://github.com/estelaV9/AccesoADatos/blob/master/ProyectoFinalHibernate/Enunciado_ProyectoFinalHibernate.pdf">Objective</a> of the practice.    
+        </p>
+        </div> 
+      </td>
+      <td width="25%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/ProyectoCasaFantasmas" target="_blank">
+            <img src="Image/casaFantasmas.png" width="150" alt="GhostHouse">
+          </a>
+          <p>Developing a <a href="https://github.com/estelaV9/ProyectoCasaFantasmas">application</a> from <b>"The House of Ghosts"</b>, where you will have to navigate the mansion solving puzzles in each room to move until you reach the final room with the sweets.</p>
+        </div>
+      </td>
+   </tr>  
+  </table>  
+</details>
+
+
+<details open> 
+  <summary><h2>📚 Modules currently studying</h2></summary>
+  <table>
+    <tr>
+      <th width="33%">
+        <h3 align="center">Data Access</h3>
+      </th>
+      <th width="33%">
+        <h3 align="center">PMDM</h3>
+      </th>
+      <th width="33%">
+        <h3 align="center">Business Management Systems</h3>
+      </th>
+    </tr>
+    <tr>
+      <td width="33%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/accesoDatos.png" height="158" width="300"  alt="DataAccess">
+          </a>
+          <p>Exercises of the Data Access module. <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/AccesoADatos?style=social">        
+          </p>
+        </div> 
+      </td>
+      <td width="33%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/PMDM" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/pdmd.png" width="300" alt="PDMD">
+          </a>
+          <p>Exercises of the PMDM module. <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/PMDM?style=social">
+          </p>
+        </div> 
+      </td>
+      <td width="33%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/sge.png" width="300" alt="SGE">
+          </a> <br>
+          <p>Exercises of the SGE module. <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/SistemasGestionEmpresarial?style=social"> 
+          </p>
+        </div> 
+      </td>
+    </tr>
+    <tr>
+      <th width="33%">
+        <h3 align="center">Interface Development</h3>
+      </th>
+      <th width="33%">
+        <h3 align="center">Programming of Services and Processes</h3>
+      </th>
+      <th width="33%">
+        <h3 align="center">Enterprise and Entrepreneurial Initiative</h3>
+      </th>
+    </tr>
+    <tr>
+      <td width="33%">
+        <div align="center">
+            <a href="https://github.com/estelaV9/DesarrolloInterfaces">
+              <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="InterfaceDevelopment">
+            </a>
           <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social">        
-        </p>
-      </div> 
-    </td>
-    <td>
-      <div align="center">
-        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md" target="_blank"> 
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPal"> 
-        </a>
-        <br><br>
-        <p>Expansion of the project idea of <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion">$BankPal</a> from the PMDM module to <b>Figma</b> in the Interface Development module. A more complete and feature-rich <a href="x">banking application</a> was developed. <br> 
-          Statement and <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md">user manual</a>. <br> <br>
-          Note: 10.
-        </p>
-      </div> 
-    </td>
-  </tr>
-  <tr>
-    <th width="50%">
-      <h3 align="center">CubeX</h3>
-    </th>
-    <th width="50%">
-      <h3 align="center">Shruk's Museum</h3>
-    </th>
-  </tr>
-  <tr>
-  <td> 
-      <div align="center">
-        <a href="https://github.com/estelaV9/CubeX" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
-        </a>
-        <p>Finished a Rubik's cube application, where you can time your times, participate in competitions, chack your statistics and compete in one versus one matches.
-          Referring to the project from <a href="https://github.com/estelaV9/CubexDatabase">database</a>. <br>Final note: 9.5 <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/CubeX?style=social">        
-        </p>
-      </div> 
-    </td>
-    <td>
-      <div align="center">
-        <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
-        </a>
-        <p>A peculiar museum about Shruk, a dark alter ego of Shrek. Explore a unique collection of images related to this quirky character. 🐸<br>Note of programming: 7.80 <br> Note development environments: 10. <br> Final note: 8.45</p>
-      </div>
-    </td>
-  </tr>                                                           
-</table>  
+          <p>Exercises of the Interface Development module. <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/DesarrolloInterfaces?style=social"> 
+          </p>
+        </div> 
+      </td>
+      <td width="33%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/PSP" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
+          </a>
+          <p>Exercises of the Programming of Services and Processes module. <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/PSP?style=social"> 
+          </p>
+        </div> 
+      </td>
+      <td width="33%">
+        <div align="center">
+          <a href="https://github.com/estelaV9/EIE" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/EIE.png" width="300" alt="EIE">
+          </a>
+          <p>Exercises of Enterprise and Entrepreneurial Initiative module.</p>
+        </div> 
+      </td>
+    </tr>
+  </table> 
+</details>
 &nbsp;
 
 
-## ⚙️ Github Statistics
-<p align="center">
-  <a href="https://github.com/estelaV9">
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estelaV9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="estelaV9"/>
-    <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estelaV9&layout=compact&langs_count=8&theme=tokyonight" alt="estelaV9"/>
-    <!-- <img height="140em" src="https://streak-stats.demolab.com?user=estelaV9&theme=tokyonight" alt="estelaV9"/>  -->
-    <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=blue9&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact&v=2" alt="estelaV9"/>
-    <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph/?username=estelaV9&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="estelaV9"/>
-  </a>
-</p>
+<details open> 
+  <summary><h2>🌠 Project tops</h2></summary>
+  <table>
+    <tr>
+      <th width="50%">
+        <h3 align="center">TFG CubeX</h3>
+      </th>
+      <th width="50%">
+        <h3 align="center">$BankPal Wireframe</h3>
+      </th>
+    </tr>
+    <tr>
+      <td> 
+        <div align="center">
+          <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
+          </a>
+          <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> of <b>CubeX</b>. <br><br>
+            An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
+              <ul align="left">
+                  <li>
+                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
+                  </li>
+                  <li>
+                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.  <br>Note: 10.                   
+                  </li>
+                <li>
+                  Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
+                  Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.  <br>Note: 10. 
+                </li>
+              </ul>
+            <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
+            <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social">        
+          </p>
+        </div> 
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md" target="_blank"> 
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPal"> 
+          </a>
+          <br><br>
+          <p>Expansion of the project idea of <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion">$BankPal</a> from the PMDM module to <b>Figma</b> in the Interface Development module. A more complete and feature-rich <a href="x">banking application</a> was developed. <br> 
+            Statement and <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md">user manual</a>. <br> <br>
+            Note: 10.
+          </p>
+        </div> 
+      </td>
+    </tr>
+    <tr>
+      <th width="50%">
+        <h3 align="center">CubeX</h3>
+      </th>
+      <th width="50%">
+        <h3 align="center">Shruk's Museum</h3>
+      </th>
+    </tr>
+    <tr>
+    <td> 
+        <div align="center">
+          <a href="https://github.com/estelaV9/CubeX" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
+          </a>
+          <p>Finished a Rubik's cube application, where you can time your times, participate in competitions, chack your statistics and compete in one versus one matches.
+            Referring to the project from <a href="https://github.com/estelaV9/CubexDatabase">database</a>. <br>Final note: 9.5 <br>
+            <img alt="starts" src="https://shields.io/github/stars/estelaV9/CubeX?style=social">        
+          </p>
+        </div> 
+      </td>
+      <td>
+        <div align="center">
+          <a href="https://github.com/estelaV9/sepuede_final" target="_blank">
+            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/Shruk's_Museum.png" width="400" alt="Shruk's Museum">
+          </a>
+          <p>A peculiar museum about Shruk, a dark alter ego of Shrek. Explore a unique collection of images related to this quirky character. 🐸<br>Note of programming: 7.80 <br> Note development environments: 10. <br> Final note: 8.45</p>
+        </div>
+      </td>
+    </tr>                                                           
+  </table>  
+</details>
+&nbsp;
+
+<details open> 
+  <summary><h2>📊 GitHub Statistics</h2></summary>
+  <p align="center">
+    <a href="https://github.com/estelaV9">
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estelaV9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="estelaV9"/>
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estelaV9&layout=compact&langs_count=8&theme=tokyonight" alt="estelaV9"/>
+      <!-- <img height="140em" src="https://streak-stats.demolab.com?user=estelaV9&theme=tokyonight" alt="estelaV9"/>  -->
+      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=blue9&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact&v=2" alt="estelaV9"/>
+      <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph/?username=estelaV9&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="estelaV9"/>
+    </a>
+  </p>
+</details>
 
 
 <img src="./Image/bottomReadme.png" alt="Bottom Image" width="100%">
