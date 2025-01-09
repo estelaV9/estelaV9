@@ -19,25 +19,25 @@
 
 ## Lenguajes y herramientas
 <p align="center">
-    <img src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000" alt="Java" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png" alt="HTML5" width="40" height="40"/>
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png" alt="CSS3" width="40" height="40"/>  
-    <img src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png" alt="MySQL" width="60" height="40"/>
-    <img src="https://www.oracle.com/asset/web/favicons/favicon-32.png" alt="Oracle" width="40" height="40"/>
-    <img src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg" alt="SqlDeveloper" width="40" height="40"/>
-    <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png" alt="MySQL Workbench" width="40" height="40"/>
-    <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" alt="MongoDB" width="40" height="40"          />
-    <img src="https://img.icons8.com/?size=256&id=F7REdHlg6KJX&format=png" alt="IntelliJ" width="40" height="40"/>
-    <img src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg" alt="Kotlin" width="30" height="35"/>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="AndroidStudios" width="35" height="35"/>
-    <img src="https://cdn-icons-png.flaticon.com/128/919/919852.png" alt="Python" width="35" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png" alt="PyChrarm" width="35" height="35"/>
-    <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" alt="Flutter" width="30" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png" alt="Dart" width="30" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" alt="Figma" width="25" height="35"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png" alt="Odoo" width="60" height="25"/>
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png" alt="Docker" width="40" height="35"/>
-    <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png" alt="SQLite" width="35" height="35"/>
+    <code><img title="Java" height="30" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"></code>
+    <code><img title="HTML5" height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968267.png"></code>
+    <code><img title="CSS3" height="25" src="https://cdn-icons-png.flaticon.com/512/5968/5968242.png"></code>
+    <code><img title="MySQL" height="25" src="https://static-00.iconduck.com/assets.00/mysql-original-wordmark-icon-512x266-a48lsirx.png"></code>
+    <code><img title="Oracle" height="25" src="https://www.oracle.com/asset/web/favicons/favicon-32.png"></code>
+    <code><img title="SqlDeveloper" height="25" src="https://www.logo.wine/a/logo/Oracle_SQL_Developer/Oracle_SQL_Developer-Logo.wine.svg"></code>
+    <code><img title="MySQL Workbench" height="25" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/mysql_workbench_macos_bigsur_icon_189924.png"></code>
+    <code><img title="MongoDB" height="25" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png"></code>
+    <code><img title="IntelliJ" height="25" src="https://img.icons8.com/?size=256&id=F7REdHlg6KJX&format=png"></code>
+    <code><img title="Kotlin" height="25" src="https://cdn.worldvectorlogo.com/logos/kotlin-2.svg"></code>
+    <code><img title="AndroidStudios" height="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png"></code>
+    <code><img title="Python" height="25" src="https://cdn-icons-png.flaticon.com/128/919/919852.png"></code>
+    <code><img title="PyCharm" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"></code>
+    <code><img title="Flutter" height="25" src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png"></code>
+    <code><img title="Dart" height="25" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Dart-logo.png"></code>
+    <code><img title="Figma" height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png"></code>
+    <code><img title="Odoo" height="25" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Odoo_Official_Logo.png"></code>
+    <code><img title="Docker" height="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png"></code>
+    <code><img title="SQLite" height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png"></code>
 </p>
 
 ## Licencias y certificaciones
