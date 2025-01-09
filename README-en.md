@@ -322,3 +322,6 @@
     <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph/?username=estelaV9&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="estelaV9"/>
   </a>
 </p>
+
+
+<img src="./Image/bottomReadme.png" alt="Bottom Image" width="100%">
