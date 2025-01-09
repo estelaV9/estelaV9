@@ -236,7 +236,7 @@
       <h3 align="center">TFG CubeX</h3>
     </th>
     <th width="50%">
-      <h3 align="center">$BankPal Framework</h3>
+      <h3 align="center">$BankPal Wireframe</h3>
     </th>
   </tr>
   <tr>
