@@ -240,23 +240,23 @@
     </th>
   </tr>
   <tr>
-    <td 
+    <td> 
       <div align="center">
         <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
         </a>
-        <p>Empezando una parte del <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> de <b>CubeX</b>. <br><br>
-          Una aplicación que, por ahora, será un timer para las resoluciones de los diferentes cubos de Rubik y dispondrá de un historial y estadísticas.
+        <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> of <b>CubeX</b>. <br><br>
+          An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
             <ul align="left">
                 <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Enunciado</a> del proyecto.
+                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
                 </li>
                 <li>
-                        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Esquema</a> (mockup o wireframe) de cómo estará diseñada la aplicación y una descripción de ella.                       
+                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.  <br>Note: 10.                   
                 </li>
               <li>
-                <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Modelo incial</a> de la aplicación. <br>
-                Incluye los casos de uso, los diagramas de componentes de las pantallas, el UML y la <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">base de datos</a>
+                Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
+                Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.  <br>Note: 10. 
               </li>
             </ul>
           <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
@@ -286,31 +286,6 @@
       <h3 align="center">Shruk's Museum</h3>
     </th>
   </tr>
-    <td> 
-      <div align="center">
-        <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
-        </a>
-        <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> of <b>CubeX</b>. <br><br>
-          An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
-            <ul align="left">
-                <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
-                </li>
-                <li>
-                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.                       
-                </li>
-              <li>
-                Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
-                Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.
-              </li>
-            </ul>
-          <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
-          <br>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social">        
-        </p>
-      </div> 
-    </td>
   <tr>
   <td> 
       <div align="center">
