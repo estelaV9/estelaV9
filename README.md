@@ -234,7 +234,7 @@
       <h3 align="center">TFG CubeX</h3>
     </th>
     <th width="50%">
-      <h3 align="center">TFG CubeX</h3>
+      <h3 align="center">$BankPal Framework</h3>
     </th>
   </tr>
   <tr>
@@ -268,8 +268,9 @@
         <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPal">
         </a>
+        <br>
         <p>Ampliación de la idea de proyecto de <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion">$BankPal</a> del módulo de PMDM a <b>Figma</b> en el módulo de Desarrollo de Interfaces, se desarrolló una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=0-1&t=88QiglBwpE1F3hZd-1">aplicación</a> de banco más completa y con más funcionalidades. <br>
-          Enunciado y <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md">manual de usuario</a>. <br>
+          Enunciado y <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md">manual de usuario</a>. <br> <br>
           Nota: 10.        
         </p>
       </div> 
