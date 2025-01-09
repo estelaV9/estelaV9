@@ -139,45 +139,6 @@
  </tr>  
 </table>  
 
-## Current *previous* project
-<table>
-  <tr>
-    <th width="50%">
-      <h3 align="center">$BankPal Application</h3>
-    </th>
-    <th width="50%">
-      <h3 align="center">CubeX Galaxy Shopping App</h3>
-    </th>
-  </tr>
-  <tr>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPalApplication">
-        </a>
-        <p>PMDM review practice to manage clients' bank accounts. <br>
-            Note: The task is perfect <br><br>
-            The project idea has been expanded in the module <b>Interface Development</b> in Figma,
-            developing a more complete bank <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=0-1&t=88QiglBwpE1F3hZd-1">application</a> and with more functionalities. <br>
-            Note: 10.</p>
-      </div> 
-    </td>
-    <td width="50%">
-      <div align="center">
-        <a href="https://github.com/estelaV9/AccesoADatos/tree/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX" target="_blank">
-          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/cubeX_Galaxy.png" width="450" alt="CubeX_Galaxy">
-        </a>
-        <p>Exercise AAD form for purchasing Rubik's cube with your <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Tema1_AccesoBDRelacionales/EjercicioFormularioFX/PracticaFormulario.md">user manual</a> of practice. <br> 
-          STATUS: FINISHED <br><br>
-          This same idea is being realized in the module <b>Business Management Systems</b> but in the programming language <b>Python</b>. 
-          You can check out the exercise in the <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Tema3_Python/Python_SGE/12proyecto_cubex">Practice 12</a>. <br>
-          Note: 9.20.</p>
-      </div> 
-    </td>
- </tr>                                                           
-</table>  
-&nbsp;
-
 ## Modules currently *studying*
 <table>
   <tr>
