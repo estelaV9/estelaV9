@@ -232,18 +232,60 @@
 ## Project *tops*
 <table>
   <tr>
-    <th width="33%">
+    <th width="50%">
       <h3 align="center">TFG CubeX</h3>
     </th>
-    <th width="33%">
-      <h3 align="center">CubeX</h3>
+    <th width="50%">
+      <h3 align="center">$BankPal Framework</h3>
     </th>
-    <th width="33%">
-      <h3 align="center">Shruk's Museum</h3>
-    </th>
-    
   </tr>
   <tr>
+    <td 
+      <div align="center">
+        <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
+        </a>
+        <p>Empezando una parte del <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> de <b>CubeX</b>. <br><br>
+          Una aplicación que, por ahora, será un timer para las resoluciones de los diferentes cubos de Rubik y dispondrá de un historial y estadísticas.
+            <ul align="left">
+                <li>
+                    <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Enunciado</a> del proyecto.
+                </li>
+                <li>
+                        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Esquema</a> (mockup o wireframe) de cómo estará diseñada la aplicación y una descripción de ella.                       
+                </li>
+              <li>
+                <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Modelo incial</a> de la aplicación. <br>
+                Incluye los casos de uso, los diagramas de componentes de las pantallas, el UML y la <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">base de datos</a>
+              </li>
+            </ul>
+          <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social">        
+        </p>
+      </div> 
+    </td>
+    <td>
+      <div align="center">
+        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md" target="_blank"> 
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPal"> 
+        </a>
+        <br><br>
+        <p>Expansion of the project idea of <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion">$BankPal</a> from the PMDM module to <b>Figma</b> in the Interface Development module. A more complete and feature-rich <a href="x">banking application</a> was developed. <br> 
+          Statement and <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md">user manual</a>. <br> <br>
+          Note: 10.
+        </p>
+      </div> 
+    </td>
+  </tr>
+  <tr>
+    <th width="50%">
+      <h3 align="center">CubeX</h3>
+    </th>
+    <th width="50%">
+      <h3 align="center">Shruk's Museum</h3>
+    </th>
+  </tr>
     <td> 
       <div align="center">
         <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
@@ -269,7 +311,8 @@
         </p>
       </div> 
     </td>
-    <td> 
+  <tr>
+  <td> 
       <div align="center">
         <a href="https://github.com/estelaV9/CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
