@@ -1,10 +1,9 @@
-<div align="center">
-  <h1 align="center">Hi, I'm Estela! 👋</h1>
-</div>
-
-![snake gif](https://github.com/estelaV9/estelaV9/blob/output/github-snake-dark.svg)
+<img src="./Image/headerReadme.png" alt="Header Image" width="100%">
 
 [![Traducir al español](https://img.shields.io/badge/🌐_Traducir_al-Español-ADD8E6?style=for-the-badge&logoColor=FFB6C1)](https://github.com/estelaV9/estelaV9/blob/main/README.md)
+| ![snake gif](https://github.com/estelaV9/estelaV9/blob/output/github-snake-dark.svg) |
+|:----------------------------------------------------------------------:|
+
 
 ## About me
 - 💻 Student of Cross-platform Application Development.
