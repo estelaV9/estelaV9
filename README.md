@@ -269,14 +269,11 @@
 ## Proyectos *tops*
 <table>
   <tr>
-    <th width="33%">
+    <th width="50%">
       <h3 align="center">TFG CubeX</h3>
     </th>
-    <th width="33%">
-      <h3 align="center">CubeX</h3>
-    </th>
-    <th width="33%">
-      <h3 align="center">Shruk's Museum</h3>
+    <th width="50%">
+      <h3 align="center">TFG CubeX</h3>
     </th>
   </tr>
   <tr>
@@ -305,12 +302,34 @@
         </p>
       </div> 
     </td>
-
+    <td>
+      <div align="center">
+        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md" target="_blank">
+          <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bankPal.png" width="400" alt="$BankPal">
+        </a>
+        <p>Ampliación de la idea de proyecto de <a href="https://github.com/estelaV9/PMDM/tree/master/introduccion">$BankPal</a> del módulo de PMDM a <b>Figma</b> en el módulo de Desarrollo de Interfaces, se desarrolló una <a href="https://www.figma.com/design/PizvLATau8znIQ6XHmyI3y/Untitled?node-id=0-1&t=88QiglBwpE1F3hZd-1">aplicación</a> de banco más completa y con más funcionalidades. <br>
+          Enunciado y <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/Tema1_Dise%C3%B1oInterfacesGraficas/Ejercicios/EjercicioFigma_BankPal/PracticaFigma.md">manual de usuario</a>. <br>
+          Nota: 10.        
+        </p>
+      </div> 
+    </td>
+  </tr>
+  <tr>
+    <th width="50%">
+      <h3 align="center">CubeX</h3>
+    </th>
+    <th width="50%">
+      <h3 align="center">Shruk's Museum</h3>
+    </th>
+  </tr>
+  
+  <tr>
   <td>
       <div align="center">
         <a href="https://github.com/estelaV9/CubeX" target="_blank">
           <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX.png" width="400" alt="CubeX">
         </a>
+        <br>
         <p>Acabada una aplicación de cubos de Rubik, donde podrás cronometrar tus tiempos, participar en competiciones, consultar tus estadísticas y competir en enfrentamientos uno contra uno.
         Con referencia al proyecto de <a href="https://github.com/estelaV9/CubexDatabase">base de datos</a>. <br>Nota final: 9.5 <br>
           <img alt="starts" src="https://shields.io/github/stars/estelaV9/CubeX?style=social">        
