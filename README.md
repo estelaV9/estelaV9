@@ -250,11 +250,11 @@
                     <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Enunciado</a> del proyecto.
                 </li>
                 <li>
-                        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Esquema</a> (mockup o wireframe) de cómo estará diseñada la aplicación y una descripción de ella.                       
+                        <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Esquema</a> (mockup o wireframe) de cómo estará diseñada la aplicación y una descripción de ella.  <br>Nota: 10.                     
                 </li>
               <li>
                 <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Modelo incial</a> de la aplicación. <br>
-                Incluye los casos de uso, los diagramas de componentes de las pantallas, el UML y la <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">base de datos</a>
+                Incluye los casos de uso, los diagramas de componentes de las pantallas, el UML y la <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">base de datos</a>.  <br>Nota: 10. 
               </li>
             </ul>
           <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
