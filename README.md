@@ -38,24 +38,26 @@
     <code><img title="SQLite" height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png"></code>
 </p>
 
-## Licencias y certificaciones
-<table>
-  <tr>
-    <td>
-      <h3 align="center">Introducción a Spring Data JPA</h3>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="250" alt="CursoOpenWeBinars"/>
-      <p>
-        Realizado un curso de<br><b>Introducción a Spring  Data JPA</b> <br>en OpenWeBinars. <br>
-        <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Certificado</a> del curso</p>
-    </td>
-  </tr>
-</table>
+<details close> 
+  <summary><h2>📜 Licencias y certificaciones</h2></summary>
+  <table>
+    <tr>
+      <td>
+        <h3 align="center">Introducción a Spring Data JPA</h3>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="250" alt="CursoOpenWeBinars"/>
+        <p>
+          Realizado un curso de<br><b>Introducción a Spring  Data JPA</b> <br>en OpenWeBinars. <br>
+          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Certificado</a> del curso</p>
+      </td>
+    </tr>
+  </table>
+</details>
 
-<details open> 
+<details close> 
   <summary><h2>📘 Proyectos actuales</h2></summary>
     <table>
       <tr>
