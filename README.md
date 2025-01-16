@@ -324,11 +324,11 @@
   <summary><h2>📊 Estadísticas GitHub</h2></summary>
   <p align="center">
     <a href="https://github.com/estelaV9">
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estelaV9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="estelaV9"/>
-      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estelaV9&layout=compact&langs_count=8&theme=tokyonight" alt="estelaV9"/>
-      <!-- <img height="140em" src="https://streak-stats.demolab.com?user=estelaV9&theme=tokyonight" alt="estelaV9"/>  -->
-      <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=blue9&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact&v=2" alt="estelaV9"/>
       <img height="300em" src="https://github-readme-activity-graph.vercel.app/graph/?username=estelaV9&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" alt="estelaV9"/>
+      <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=estelaV9&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="estelaV9"/>
+      <img height="300em" src="https://github-readme-stats.vercel.app/api/wakatime?username=blue9&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20Week%20Stats&layout=compact&v=2" alt="estelaV9"/>
+      <!-- <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=estelaV9&layout=compact&langs_count=8&theme=tokyonight" alt="estelaV9"/> -->
+      <!-- <img height="140em" src="https://streak-stats.demolab.com?user=estelaV9&theme=tokyonight" alt="estelaV9"/>  -->
     </a>
   </p>
 </details>
