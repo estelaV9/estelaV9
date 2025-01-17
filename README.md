@@ -147,91 +147,62 @@
   <summary><h2>📚 Módulos cursando</h2></summary>
   <table>
     <tr>
-      <th width="33%">
-        <h3 align="center">Acceso a Datos</h3>
-      </th>
-      <th width="33%">
-        <h3 align="center">PMDM</h3>
-      </th>
-      <th width="33%">
-        <h3 align="center">Sistema de Gestión Empresarial</h3>
-      </th>
-    </tr>
-    <tr>
-      <td width="33%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/AccesoADatos" target="_blank">
-            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/accesoDatos.png" height="158" width="300"  alt="AccesoADatos">
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/AccesoADatos">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/AccesoADatos" alt="AccesoADatos"/>
           </a>
-          <p>Ejercicios del módulo de Acceso a datos. <br>
-            <img alt="starts" src="https://shields.io/github/stars/estelaV9/AccesoADatos?style=social">        
-          </p>
-        </div> 
-      </td>
-      <td width="33%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/PMDM" target="_blank">
-            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/pdmd.png" width="300" alt="PDMD">
-          </a>
-          <p>Ejercicios del módulo de PMDM. <br>
-            <img alt="starts" src="https://shields.io/github/stars/estelaV9/PMDM?style=social">
-          </p>
-        </div> 
-      </td>
-      <td width="33%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/SistemasGestionEmpresarial" target="_blank">
-            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/sge.png" width="300" alt="SGE">
-          </a> <br>
-          <p>Ejercicios del módulo de SGE. <br>
-            <img alt="starts" src="https://shields.io/github/stars/estelaV9/SistemasGestionEmpresarial?style=social"> 
-          </p>
-        </div> 
-      </td>
-    </tr>
-    <tr>
-      <th width="33%">
-        <h3 align="center">Desarrollo de Interfaces</h3>
-      </th>
-      <th width="33%">
-        <h3 align="center">Programación de Servicios y Procesos</h3>
-      </th>
-      <th width="33%">
-        <h3 align="center">Empresa e Iniciativa Emprendedora</h3>
-      </th>
-    </tr>
-    <tr>
-      <td width="33%">
-        <div align="center">
-            <a href="https://github.com/estelaV9/DesarrolloInterfaces">
-              <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/desarrolloInterfaces.png" width="300" alt="DesarrolloInterfaces">
-            </a>
           <br>
-          <p>Ejercicios del módulo de Desarrollo de Interfaces. <br>
-            <img alt="starts" src="https://shields.io/github/stars/estelaV9/DesarrolloInterfaces?style=social"> 
-          </p>
-        </div> 
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/AccesoADatos?style=social">
+        </p>
       </td>
-      <td width="33%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/PSP" target="_blank">
-            <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/progServicioProcesos.png" width="300" alt="PSP">
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DesarrolloInterfaces">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloInterfaces" alt="DesarrolloInterfaces"/>
           </a>
-          <p>Ejercicios del módulo de Programación de Servicios y Procesos. <br>
-            <img alt="starts" src="https://shields.io/github/stars/estelaV9/PSP?style=social"> 
-          </p>
-        </div> 
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/DesarrolloInterfaces?style=social">
+        </p>
       </td>
-      <td width="33%">
-        <div align="center">
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/SistemasGestionEmpresarial">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/SistemasGestionEmpresarial" alt="SGE"/>
+          </a>
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/SistemasGestionEmpresarial?style=social">
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/PMDM">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/PMDM" alt="PMDM"/>
+          </a>
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/PMDM?style=social">
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/PSP">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/PSP" alt="PSP"/>
+          </a>
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/PSP?style=social">
+        </p>
+      </td>
+      <td>
+        <p align="center">
           <a href="https://github.com/estelaV9/EIE" target="_blank">
             <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/EIE.png" width="300" alt="EIE">
           </a>
-          <p>Ejercicios del módulo de Empresa e Iniciativa Emprendedora.</p>
-        </div> 
+        </p>
       </td>
     </tr>
-  </table> 
+  </table>
 </details>
 &nbsp;
 
