@@ -14,7 +14,7 @@
   <img alt="gmail" src="https://img.shields.io/badge/Gmail-esteladevega.dev9%40gmail.com-%233f8b47">
 </a>
 
-<img alt="wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/blue9/interval:coding_activity&label=Coding%20activity&color=8A2BE2"/>
+<img alt="wakapi" src="https://img.shields.io/endpoint?url=https://wakapi.dev/api/compat/shields/v1/blue9/interval:all_time&label=Coding%20activity&color=8A2BE2"/>
 
 ## Languages and tools 
 <p align="center">
