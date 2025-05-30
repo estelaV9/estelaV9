@@ -6,7 +6,8 @@
 
 
 ## About me
-- 💻 Student of Cross-platform Application Development.
+- 💻 Advanced Technical in Cross-platform Application Development.
+- 🏅 Honors Mention in the Final Degree Project ([CubeX](https://github.com/estelaV9/TFG_CubeX)).
 - 🤝 Open to all kinds of advice! Always grateful for the help of the GitHub community.
 - 👩‍💻 &lt;coding in&gt; progress.
 
@@ -40,21 +41,36 @@
 </p>
 
 <details close> 
-  <summary><h2>📜 Licencias y certificaciones</h2></summary>
+  <summary><h2>📜 Licenses and certifications</h2></summary>
   <table>
     <tr>
       <th align="center">
         <h3 align="center">Introduction to Spring Data JPA</h3>
       </th>
+      <td width="25%">
+        <h3 align="center">HHSS + Introduction to Java</h3>
+      </td>
+      <td width="25%">
+        <h3 align="center">Java</h3>
+      </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="250" alt="OpenWeBinarsCourse"/>
+      <td align="left" width="40%">
+        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="100" align="left" style="margin-right:10px;" alt="CursoOpenWeBinars"/>
         <p>
-          Completed a course on <br>
-          <b>Introduction to Spring Data JPA</b><br>
-          in OpenWeBinars. <br>
-          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Certificado</a> del curso</p>
+          Completed a course on <b>Introduction to Spring Data JPA</b> in OpenWeBinars. <br>
+          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">View certificate</a>
+        </p>
+      </td>
+      <td colspan="2" width="60%">
+        <p>
+          During the internship period of the DAM degree, I received an intensive 1-month training divided into two parts:
+        <ul>
+          <li><strong>Soft skills:</strong> employability, communication, teamwork, CV creation and job interviews.</li>
+          <li><strong>Java (JSE + JEE):</strong> fundamentals, OOP, inheritance, Spring MVC, Hibernate, unit testing, and REST APIs with Spring Boot.</li>
+        </ul>
+        We concluded with a <strong>practical project using Spring MVC</strong> to apply the knowledge acquired.
+        </p>
       </td>
     </tr>
   </table>
