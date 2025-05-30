@@ -5,7 +5,8 @@
 |:----------------------------------------------------------------------:|
 
 ## Sobre mí
-- 💻 Estudiante de Desarrollo Aplicaciones Multiplataforma.
+- 💻 Técnica Superior en Desarrollo de Aplicaciones Multiplataforma.
+- 🏅 Mención honorífica en el Proyecto Final del ciclo ([CubeX](https://github.com/estelaV9/TFG_CubeX)).
 - 🤝 ¡Abierta a todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
 - 👩‍💻 &lt;coding in&gt; progress.
 
@@ -45,13 +46,30 @@
       <td>
         <h3 align="center">Introducción a Spring Data JPA</h3>
       </td>
+      <td width="25%">
+        <h3 align="center">HHSS + Iniciación a Java</h3>
+      </td>
+      <td width="25%">
+        <h3 align="center">Java</h3>
+      </td>
     </tr>
     <tr>
-      <td align="center">
-        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="250" alt="CursoOpenWeBinars"/>
+      <td align="left" width="40%">
+        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="100" align="left" style="margin-right:10px;" alt="CursoOpenWeBinars"/>
         <p>
-          Realizado un curso de<br><b>Introducción a Spring  Data JPA</b> <br>en OpenWeBinars. <br>
-          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Certificado</a> del curso</p>
+          Realizado un curso de <b>Introducción a Spring Data JPA</b> en OpenWebinars. <br>
+          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Ver certificado</a>
+        </p>
+      </td>
+      <td colspan="2" width="60%">
+        <p>
+         Durante las prácticas del ciclo DAM, recibí una formación intensiva de 1 mes dividida en dos partes:
+          <ul>
+            <li><strong>Habilidades blandas:</strong> empleabilidad, comunicación, trabajo en equipo, creación de CV y entrevistas.</li>
+            <li><strong>Java (JSE + JEE):</strong> fundamentos, POO, herencia, Spring MVC, Hibernate, pruebas unitarias y APIs REST con Spring Boot.</li>
+          </ul>
+          Finalizamos con un <strong>proyecto práctico en Spring MVC</strong> para aplicar los conocimientos adquiridos.
+        </p>
       </td>
     </tr>
   </table>
