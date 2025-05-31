@@ -80,8 +80,9 @@
 <details open> 
   <summary><h2>📘 Proyectos actuales</h2></summary>
     <h3>CubeX: Aplicación multiplataforma para speedcubing</h3>
+  <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social" width="80"/>
   <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX-Images/mobileTimer.png" width="200" align="right" style="margin-left:10px;" alt="CubeXTimer"/>
-        
+         
 CubeX es una aplicación multiplataforma desarrollada inicialmente como Trabajo de Fin de Grado (TFG), centrada en el mundo del <i>speedcubing</i>, la práctica de resolver cubos Rubik o rompecabezas en el menor tiempo posible. Diseñada para cubrir tanto las necesidades de usuarios principiantes como avanzados, CubeX ofrece una experiencia completa, intuitiva y accesible que va más allá de un simple temporizador. 
 
 <h4>🛠 Tecnologías utilizadas</h4>
@@ -97,8 +98,8 @@ CubeX es una aplicación multiplataforma desarrollada inicialmente como Trabajo 
     <p>
       Backend como servicio que ofrece:
       <ul>
-        <li>Autenticación segura de usuarios.</li>
-        <li>Base de datos en tiempo real (PostgreSQL).</li>
+        <li>Autenticación segura de usuarios.</li> 
+        <li>Base de datos en tiempo real (PostgreSQL).</li> 
         <li>Almacenamiento en la nube para datos e imágenes.</li>
       </ul>
     </p>
@@ -156,7 +157,7 @@ Entre sus funcionalidades más destacadas se encuentran:
 
 
 <details open> 
-  <summary><h2>📚 Módulos cursando</h2></summary>
+  <summary><h2>📚 Módulos cursados</h2></summary>
   <table>
     <tr>
       <td>
