@@ -77,89 +77,80 @@
 </details>
 
 
-<details clase> 
-  <summary><h2>📘 Current projects</h2></summary>
-  <table>
-    <tr>
-      <th width="25%">
-        <h3 align="center">CubeX TFG</h3>
-      </th>
-      <th width="25%">
-        <h3 align="center">Odoo Manageestela Module</h3>
-      </th>
-      <th width="25%">
-        <h3 align="center">Reports Management</h3>
-      </th>
-      <th width="25%">
-        <h3 align="center">House of Ghosts</h3>
-      </th>
-    </tr>
-    <tr>
-      <td width="25%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/DesarrolloInterfaces/tree/master/ProyectoFlutter_ParteTFG" target="_blank">
-            <img src="Image/bannerCubeX.png" width="400" alt="CubeX_TFG">
-          </a>
-          <p>Starting a part of the <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> in the Interface Development module of <b>CubeX</b>. <br><br>
-            An aplication that, for now, will be a timer for the resolutions of the diferents Rubik's cubes and will have a history and statistics.
-              <ul>
-                  <li>
-                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Objetive</a> of the project.
-                  </li>
-                  <li>
-                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Scheme</a> (mockup or wireframe) of how the application will be designed and a description of it.                       
-                  </li>
-                <li>
-                  Application <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Initial model</a>. <br>
-                  Includes use cases, display component diagrams, UML and the <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">database</a>.
-                </li>
-              </ul>
-          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social"> 
-        </div> 
-      </td>
-      <td width="25%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage" target="_blank">
-            <img src="Image/moduloManageestela.png" width="400" alt="ManageestelaModule">
-          </a>
-          <p>Working in a <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/blob/master/Proyecto_ModuloManage/deVega_Martin_Estela_proyectomanage.pdf">memory</a> module development <a href="https://github.com/estelaV9/SistemasGestionEmpresarial/tree/master/Proyecto_ModuloManage/manageestela">Manageestela</a> for Odoo, detailing:
-            <ul>
-              <li>The fundamentals of ERP and SCRUM.</li>
-              <li>The architecture and design of the module.</li>
-              <li>Your extension.</li>
-              <li>The tools used.</li>
-              <li>The tests performed.</li>
-            </ul>
-          First part note: Qualified. 
-        </p>
-        </div>
-      </td>
-      <td width="25%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/AccesoADatos/tree/master/ProyectoFinalHibernate" target="_blank">
-            <img src="Image/gestionPartes.png" width="400" alt="ReportManagement">
-          </a>
-          <p>Working in a final <a href="https://github.com/HugoReyHol/gestion-faltas">project</a> in Hibernate as a group implementing a system with two types of users
-            <ul>
-              <li>Teachers</li>
-              <li>Heads of Studies.</li>
-            </ul>
-            Each one with specific menus to manage reports, students and teachers. <br>
-            <a href="https://github.com/estelaV9/AccesoADatos/blob/master/ProyectoFinalHibernate/Enunciado_ProyectoFinalHibernate.pdf">Objective</a> of the practice.    
-        </p>
-        </div> 
-      </td>
-      <td width="25%">
-        <div align="center">
-          <a href="https://github.com/estelaV9/ProyectoCasaFantasmas" target="_blank">
-            <img src="Image/casaFantasmas.png" width="150" alt="GhostHouse">
-          </a>
-          <p>Developing a <a href="https://github.com/estelaV9/ProyectoCasaFantasmas">application</a> from <b>"The House of Ghosts"</b>, where you will have to navigate the mansion solving puzzles in each room to move until you reach the final room with the sweets.</p>
-        </div>
-      </td>
-   </tr>  
-  </table>  
+
+<details open> 
+  <summary><h2>📘 Current Projects</h2></summary>
+  <h3>CubeX: Cross-platform app for speedcubing</h3>
+  <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX-Images/mobileTimer.png" width="200" align="right" style="margin-left:10px;" alt="CubeXTimer"/>
+        
+CubeX is a cross-platform application initially developed as a Final Degree Project (TFG), focused on the world of <i>speedcubing</i> — the practice of solving Rubik’s cubes or other twisty puzzles in the shortest time possible. Designed to meet the needs of both beginners and advanced users, CubeX offers a complete, intuitive, and accessible experience that goes far beyond a simple timer.
+
+<h4>🛠 Technologies Used</h4>
+<ul>
+  <li>
+    <h5><img src="https://github.com/estelaV9/estelaV9/blob/main/Image/imagesProgrammingLanguages/flutter_logo.png" alt="Flutter Logo" width="15"/> Flutter + <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/imagesProgrammingLanguages/dart_logo.png" alt="Dart Logo" width="15"/> Dart</h5>
+    <p>
+      Built with a single codebase for both Android and Windows, providing a unified, internationalized experience. Support for macOS, iOS, and Linux is coming soon.
+    </p>
+  </li>
+  <li>
+    <h5><img src="https://github.com/estelaV9/estelaV9/blob/main/Image/imagesProgrammingLanguages/supabase_logo.png" alt="Supabase Logo" width="15"/> Supabase</h5>
+    <p>
+      Backend as a Service offering:
+      <ul>
+        <li>Secure user authentication.</li>
+        <li>Real-time database (PostgreSQL).</li>
+        <li>Cloud storage for data and images.</li>
+      </ul>
+    </p>
+  </li>
+  <li>
+    <img src="https://github.com/estelaV9/TFG_CubeX/blob/master/assets/cubix/cubix_wave.png" width="100" align="right" style="margin-left:10px;" alt="CubixWave"/>
+    <h5><img src="https://github.com/estelaV9/estelaV9/blob/main/Image/imagesProgrammingLanguages/figma_logo.png" width="15"/> Figma</h5>
+    <p>
+      Used for UI/UX design and prototyping, resulting in an attractive, accessible, and user-friendly interface. The app also features its own mascot, Cubix, who guides users through the app, especially during their first use.
+    </p>
+  </li>
+</ul>
+
+<br>
+
+<h4>Features</h4>
+Key features include:
+<ul>
+  <li>A powerful <b>timer</b> with advanced configuration options and full customization for sounds, pre-inspection, and languages.</li>
+  <li>A <b>scramble generator</b> adapted to multiple cube types (2x2, 3x3, Square-1, Megaminx, Pyraminx, and more).</li>
+  <li>A detailed <b>statistics system</b> that shows best times, averages (Ao5, Ao12, Ao100), <img src="https://github.com/estelaV9/TFG_CubeX/blob/master/assets/cubix/cubix_inspection.png" width="120" align="left" style="margin-right:10px;" alt="CubixInspection"/>penalty percentages, and performance graphs by session.</li>
+  <li><b>PDF export</b> of session times, useful for tracking progress or keeping physical/digital logs.</li>
+  <li>Integration of <b>notifications and reminders</b> to support consistent training habits.</li>
+</ul>
+
+<br>
+
+<h4>Additional Highlights</h4>
+<img src="https://github.com/estelaV9/estelaV9/blob/main/Image/CubeX-Images/cubix_honorable_mention.png" width="140" align="left" style="margin-right:20px;" alt="CubixHonorableMention"/>
+<p>🏅 CubeX was recognized as the best project of the year, receiving the <b>Honors Mention</b>. As part of the presentation, the project was enhanced with:</p>
+<ul>
+  <li>Informative brochures for attendees.</li>
+  <li>Stickers featuring the app’s mascot, Cubix.</li>
+  <li>A custom-designed t-shirt featuring Cubix.</li>
+</ul>
+
+<br>
+
+<h4>Currently</h4>
+<img src="https://github.com/estelaV9/TFG_CubeX/blob/master/assets/cubix/cubix_cubetypes.png" width="120" align="right" style="margin-left:10px;" alt="CubixCubeTypes"/>
+<p>Today, CubeX continues as a standalone project beyond the academic setting. Development is ongoing with exciting new features such as:</p>
+<ul>
+  <li>A <b>versus mode</b> to compete with other users in real-time.</li>
+  <li>A built-in <b>chat</b> for social interaction within the speedcubing community.</li>
+  <li>An extended scramble and performance analysis system powered by <b>AI</b>.</li>
+</ul>
+
+<p>© The legal protection of the app is currently being studied through <b>patent research</b>, alongside distribution strategies for future release in app stores.</p>
+
 </details>
+
 
 
 <details open> 
