@@ -231,16 +231,17 @@ Entre sus funcionalidades más destacadas se encuentran:
       </th>
     </tr>
     <tr>
-      <td 
+      <td> 
         <div align="center">
           <a href="https://github.com/estelaV9/TFG_CubeX" target="_blank">
             <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/bannerCubeX.png" width="400" alt="TFG_CubeX">
           </a>
-          <p>Empezando una parte del <a href="https://github.com/estelaV9/TFG_CubeX">TFG</a> de <b>CubeX</b>. <br><br>
-            Una aplicación que, por ahora, será un timer para las resoluciones de los diferentes cubos de Rubik y dispondrá de un historial y estadísticas.
-              <ul align="left">
+        <p>
+          <a href="https://github.com/estelaV9/TFG_CubeX"><b>CubeX</b></a> fue mi Trabajo Fin de Grado, una app multiplataforma enfocada en el <i>speedcubing</i>, desarrollada con Flutter y Supabase.<br><br>
+          En el módulo de <a href="https://github.com/estelaV9/DesarrolloInterfaces">Desarrollo de Interfaces</a> diseñé e implementé el temporizador, historial, pantalla de ajustes (con idioma), registro de usuario y sección "About".<br>
+          <ul align="left">
                   <li>
-                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Enunciado</a> del proyecto.
+                      <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EnunciadoPractica.md">Enunciado</a> del proyecto. 
                   </li>
                   <li>
                           <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_WireframeCubeX.pdf">Esquema</a> (mockup o wireframe) de cómo estará diseñada la aplicación y una descripción de ella.  <br>Nota: 10.                     
@@ -249,11 +250,12 @@ Entre sus funcionalidades más destacadas se encuentran:
                   <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/EstelaDeVega_ModeloInicialCubeX.pdf">Modelo incial</a> de la aplicación. <br>
                   Incluye los casos de uso, los diagramas de componentes de las pantallas, el UML y la <a href="https://github.com/estelaV9/DesarrolloInterfaces/blob/master/ProyectoFlutter_ParteTFG/databaseCubeX.db">base de datos</a>.  <br>Nota: 10. 
                 </li>
-              </ul>
-            <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
-            <br>
-            <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social">        
-          </p>
+          </ul>
+          🏅 Nota final del TFG: <b>10 + Mención Honorífica</b> | Nota proyecto del módulo: <b>8.5</b><br><br>
+          <img src="https://wakapi.dev/api/badge/blue9/interval:any/project:TFG_CubeX?style=flat-square&color=9b59b6&label=Total%20Hours" alt="TotalHoursTFGCubex">
+          <br>
+          <img alt="starts" src="https://shields.io/github/stars/estelaV9/TFG_CubeX?style=social"> 
+        </p>
         </div> 
       </td>
       <td>
