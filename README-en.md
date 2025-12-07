@@ -153,8 +153,8 @@ Key features include:
 
 
 
-<details open> 
-  <summary><h2>📚 Modules currently studying</h2></summary>
+<details clase> 
+  <summary><h2>📚 Modules completed</h2></summary>
     <table>
     <tr>
       <td>
