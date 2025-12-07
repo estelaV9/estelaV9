@@ -156,7 +156,7 @@ Entre sus funcionalidades más destacadas se encuentran:
 
 
 
-<details open> 
+<details close> 
   <summary><h2>📚 Módulos cursados</h2></summary>
   <table>
     <tr>
