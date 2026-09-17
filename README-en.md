@@ -6,6 +6,7 @@
 
 
 ## About me
+- **```<\>```** Studying Web Application Development.
 - 💻 Advanced Technical in Cross-platform Application Development.
 - 🏅 Honors Mention in the Final Degree Project ([CubeX](https://github.com/estelaV9/TFG_CubeX)).
 - 🤝 Open to all kinds of advice! Always grateful for the help of the GitHub community.
@@ -40,41 +41,65 @@
     <code><img title="SQLite" height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png"></code>
 </p>
 
-<details close> 
-  <summary><h2>📜 Licenses and certifications</h2></summary>
+<details open> 
+  <summary><h2>📝 Modules currently</h2></summary>
   <table>
     <tr>
-      <th align="center">
-        <h3 align="center">Introduction to Spring Data JPA</h3>
-      </th>
-      <td width="25%">
-        <h3 align="center">HHSS + Introduction to Java</h3>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DesarrolloWebEntornoCliente">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoCliente" alt="DesarrolloWebEntornoCliente"/>
+          </a>
+        </p>
       </td>
-      <td width="25%">
-        <h3 align="center">Java</h3>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DesarrolloWebEntornoServidor">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoServidor" alt="DesarrolloWebEntornoServidor"/>
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DisenioInterfacesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DisenioInterfacesWeb" alt="DiseñoInterfacesWeb"/>
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DespliegueAplicacionesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DespliegueAplicacionesWeb" alt="DespliegueAplicacionesWeb"/>
+          </a>
+        </p>
       </td>
     </tr>
     <tr>
-      <td align="left" width="40%">
-        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="100" align="left" style="margin-right:10px;" alt="CursoOpenWeBinars"/>
-        <p>
-          Completed a course on <b>Introduction to Spring Data JPA</b> in OpenWeBinars. <br>
-          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">View certificate</a>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/Ciberseguridad" target="_blank">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/Ciberseguridad" alt="Ciberseguridad"/>
+          </a>
         </p>
       </td>
-      <td colspan="2" width="60%">
-        <p>
-          During the internship period of the DAM degree, I received an intensive 1-month training divided into two parts:
-        <ul>
-          <li><strong>Soft skills:</strong> employability, communication, teamwork, CV creation and job interviews.</li>
-          <li><strong>Java (JSE + JEE):</strong> fundamentals, OOP, inheritance, Spring MVC, Hibernate, unit testing, and REST APIs with Spring Boot.</li>
-        </ul>
-        We concluded with a <strong>practical project using Spring MVC</strong> to apply the knowledge acquired.
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/SostenibilidadSistemaProductivo">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/SostenibilidadSistemaProductivo" alt="Sostenibilidad"/>
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DigitalizacionSectoresProductivos">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DigitalizacionSectoresProductivos" alt="Digitalizacion"/>
+          </a>
         </p>
       </td>
     </tr>
   </table>
 </details>
+&nbsp;
 
 
 
