@@ -5,6 +5,7 @@
 |:----------------------------------------------------------------------:|
 
 ## Sobre mí
+- **```<\>```** Estudiando Desarrollo de Aplicaciones Web.
 - 💻 Técnica Superior en Desarrollo de Aplicaciones Multiplataforma.
 - 🏅 Mención honorífica en el Proyecto Final del ciclo ([CubeX](https://github.com/estelaV9/TFG_CubeX)).
 - 🤝 ¡Abierta a todo tipo de consejos! Siempre agradecida por la ayuda de la comunidad de GitHub.
@@ -39,42 +40,66 @@
     <code><img title="SQLite" height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png"></code>
 </p>
 
-<details close> 
-  <summary><h2>📜 Licencias y certificaciones</h2></summary>
+
+<details open> 
+  <summary><h2>📝 Módulos cursando</h2></summary>
   <table>
     <tr>
       <td>
-        <h3 align="center">Introducción a Spring Data JPA</h3>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DesarrolloWebEntornoCliente">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoCliente" alt="DesarrolloWebEntornoCliente"/>
+          </a>
+        </p>
       </td>
-      <td width="25%">
-        <h3 align="center">HHSS + Iniciación a Java</h3>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DesarrolloWebEntornoServidor">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoServidor" alt="DesarrolloWebEntornoServidor"/>
+          </a>
+        </p>
       </td>
-      <td width="25%">
-        <h3 align="center">Java</h3>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DisenioInterfacesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DisenioInterfacesWeb" alt="DiseñoInterfacesWeb"/>
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DespliegueAplicacionesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DespliegueAplicacionesWeb" alt="DespliegueAplicacionesWeb"/>
+          </a>
+        </p>
       </td>
     </tr>
     <tr>
-      <td align="left" width="40%">
-        <img src="https://github.com/estelaV9/estelaV9/blob/main/Image/openWeBinarsBanner.jpg" width="100" align="left" style="margin-right:10px;" alt="CursoOpenWeBinars"/>
-        <p>
-          Realizado un curso de <b>Introducción a Spring Data JPA</b> en OpenWebinars. <br>
-          <a href="https://github.com/estelaV9/AccesoADatos/blob/master/Curso_IntroduccionSpringDataJPA/certificado_introducci%C3%B3n_a_spring_data_jpa.pdf">Ver certificado</a>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/Ciberseguridad" target="_blank">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/Ciberseguridad" alt="Ciberseguridad"/>
+          </a>
         </p>
       </td>
-      <td colspan="2" width="60%">
-        <p>
-         Durante las prácticas del ciclo DAM, recibí una formación intensiva de 1 mes dividida en dos partes:
-          <ul>
-            <li><strong>Habilidades blandas:</strong> empleabilidad, comunicación, trabajo en equipo, creación de CV y entrevistas.</li>
-            <li><strong>Java (JSE + JEE):</strong> fundamentos, POO, herencia, Spring MVC, Hibernate, pruebas unitarias y APIs REST con Spring Boot.</li>
-          </ul>
-          Finalizamos con un <strong>proyecto práctico en Spring MVC</strong> para aplicar los conocimientos adquiridos.
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/SostenibilidadSistemaProductivo">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/SostenibilidadSistemaProductivo" alt="Sostenibilidad"/>
+          </a>
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://github.com/estelaV9/DigitalizacionSectoresProductivos">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DigitalizacionSectoresProductivos" alt="Digitalizacion"/>
+          </a>
         </p>
       </td>
     </tr>
   </table>
 </details>
-
+&nbsp;
 
 
 <details open> 
