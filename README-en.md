@@ -40,59 +40,62 @@
     <code><img title="Docker" height="25" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/docker-icon.png"></code>
     <code><img title="SQLite" height="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/sqlite_logo_icon_169724.png"></code>
 </p>
+  
 
 <details open> 
   <summary><h2>📝 Modules currently</h2></summary>
   <table>
     <tr>
-      <td>
+      <td colspan="3">
         <p align="center">
           <a href="https://github.com/estelaV9/DesarrolloWebEntornoCliente">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoCliente" alt="DesarrolloWebEntornoCliente"/>
           </a>
         </p>
       </td>
-      <td>
+      <td colspan="3">
         <p align="center">
           <a href="https://github.com/estelaV9/DesarrolloWebEntornoServidor">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoServidor" alt="DesarrolloWebEntornoServidor"/>
           </a>
         </p>
       </td>
-      <td>
-        <p align="center">
-          <a href="https://github.com/estelaV9/DisenioInterfacesWeb">
-            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DisenioInterfacesWeb" alt="DiseñoInterfacesWeb"/>
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://github.com/estelaV9/DespliegueAplicacionesWeb">
-            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DespliegueAplicacionesWeb" alt="DespliegueAplicacionesWeb"/>
-          </a>
-        </p>
-      </td>
     </tr>
     <tr>
-      <td>
-        <p align="center">
-          <a href="https://github.com/estelaV9/Ciberseguridad" target="_blank">
-            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/Ciberseguridad" alt="Ciberseguridad"/>
-          </a>
-        </p>
-      </td>
-      <td>
+      <td colspan="2">
         <p align="center">
           <a href="https://github.com/estelaV9/SostenibilidadSistemaProductivo">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/SostenibilidadSistemaProductivo" alt="Sostenibilidad"/>
           </a>
         </p>
       </td>
-      <td>
+      <td colspan="2">
         <p align="center">
           <a href="https://github.com/estelaV9/DigitalizacionSectoresProductivos">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DigitalizacionSectoresProductivos" alt="Digitalizacion"/>
+          </a>
+        </p>
+      </td>
+      <td colspan="2">
+        <p align="center">
+          <a href="https://github.com/estelaV9/Ciberseguridad" target="_blank">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/Ciberseguridad" alt="Ciberseguridad"/>
+          </a>
+        </p>
+      </td>
+      </tr>
+      <tr>
+      <td colspan="3">
+        <p align="center">
+          <a href="https://github.com/estelaV9/DisenioInterfacesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DisenioInterfacesWeb" alt="DiseñoInterfacesWeb"/>
+          </a>
+        </p>
+      </td>
+      <td colspan="3">
+        <p align="center">
+          <a href="https://github.com/estelaV9/DespliegueAplicacionesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DespliegueAplicacionesWeb" alt="DespliegueAplicacionesWeb"/>
           </a>
         </p>
       </td>
