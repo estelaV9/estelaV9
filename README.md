@@ -43,56 +43,62 @@
 
 <details open> 
   <summary><h2>📝 Módulos cursando</h2></summary>
+  <!-- LA TABLA TIENE UN TOTAL DE 6 COLUMNAS (MCM DE 2 Y 3)
+     PARA LA FILA DE 2 CELDAS SE USA COLSPAN=3 (3+3=6 -> 50%/50%)
+     PARA LA FILA DE 3 CELDAS SE USA COLSPAN=2 (2+2+2=6 -> 33%/33%/33%)
+    ASI LOGRAMOS QUE LA TABLA SEA 2/3/2 -->
   <table>
     <tr>
-      <td>
+      <td colspan="3">
         <p align="center">
           <a href="https://github.com/estelaV9/DesarrolloWebEntornoCliente">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoCliente" alt="DesarrolloWebEntornoCliente"/>
           </a>
         </p>
       </td>
-      <td>
+      <td colspan="3">
         <p align="center">
           <a href="https://github.com/estelaV9/DesarrolloWebEntornoServidor">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DesarrolloWebEntornoServidor" alt="DesarrolloWebEntornoServidor"/>
           </a>
         </p>
       </td>
-      <td>
-        <p align="center">
-          <a href="https://github.com/estelaV9/DisenioInterfacesWeb">
-            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DisenioInterfacesWeb" alt="DiseñoInterfacesWeb"/>
-          </a>
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <a href="https://github.com/estelaV9/DespliegueAplicacionesWeb">
-            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DespliegueAplicacionesWeb" alt="DespliegueAplicacionesWeb"/>
-          </a>
-        </p>
-      </td>
     </tr>
     <tr>
-      <td>
-        <p align="center">
-          <a href="https://github.com/estelaV9/Ciberseguridad" target="_blank">
-            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/Ciberseguridad" alt="Ciberseguridad"/>
-          </a>
-        </p>
-      </td>
-      <td>
+      <td colspan="2">
         <p align="center">
           <a href="https://github.com/estelaV9/SostenibilidadSistemaProductivo">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/SostenibilidadSistemaProductivo" alt="Sostenibilidad"/>
           </a>
         </p>
       </td>
-      <td>
+      <td colspan="2">
         <p align="center">
           <a href="https://github.com/estelaV9/DigitalizacionSectoresProductivos">
             <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DigitalizacionSectoresProductivos" alt="Digitalizacion"/>
+          </a>
+        </p>
+      </td>
+      <td colspan="2">
+        <p align="center">
+          <a href="https://github.com/estelaV9/Ciberseguridad" target="_blank">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/Ciberseguridad" alt="Ciberseguridad"/>
+          </a>
+        </p>
+      </td>
+      </tr>
+      <tr>
+      <td colspan="3">
+        <p align="center">
+          <a href="https://github.com/estelaV9/DisenioInterfacesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DisenioInterfacesWeb" alt="DiseñoInterfacesWeb"/>
+          </a>
+        </p>
+      </td>
+      <td colspan="3">
+        <p align="center">
+          <a href="https://github.com/estelaV9/DespliegueAplicacionesWeb">
+            <img src="https://svg.bookmark.style/api?url=https://github.com/estelaV9/DespliegueAplicacionesWeb" alt="DespliegueAplicacionesWeb"/>
           </a>
         </p>
       </td>
